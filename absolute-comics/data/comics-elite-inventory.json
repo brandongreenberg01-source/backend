@@ -1,0 +1,114 @@
+{
+  "captured": "2026-07-29",
+  "retailer": {
+    "name": "Comics Elite",
+    "url": "https://comicselitecomics.com",
+    "location": "Indianapolis, IN",
+    "specialty": "Retailer-exclusive trade dress, virgin, and foil variants",
+    "preferred_retailer": true,
+    "business_model": "New-release exclusive variants sold on PRE-ORDER. Not a back-issue dealer. Some listings ship within 30 business days of release date. Absolute Batman stock starts at #19 - anything older must be sourced elsewhere.",
+    "domain_warning": "comicselite.com (without 'comics') is a PARKED DOMAIN listed for sale and sells nothing. The real storefront is comicselitecomics.com."
+  },
+  "capture_notes": "Search-result pages, page 1 of each title. Result counts reflect total listings including sets and multiples. Stock labels are the site's own ('In stock', 'Low stock', 'Very low stock').",
+  "titles": {
+    "absolute_catwoman": {
+      "total_listings": 266,
+      "items": [
+        { "issue": 1, "variant": "Mayhew Trade Dress", "ltd": 3000, "price": 19.99, "stock": "low", "units": 9, "recommended": true, "why": "Best balance of real limitation and price. Snyder is co-writer, so his signature is a credited-creator sig." },
+        { "issue": 1, "variant": "Talavera Virgin", "ltd": 1000, "price": 29.99, "stock": "very_low", "units": 2 },
+        { "issue": 1, "variant": "Talavera No Helmet Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Talavera Helmet Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Talavera 2 Cover Foil Set", "ltd": null, "price": 69.99, "stock": "in_stock", "sale": true },
+        { "issue": 1, "variant": "Derrick Chew Virgin", "ltd": 1000, "price": 24.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Derrick Chew Trade Dress", "ltd": 1000, "price": 24.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Ed Benes Foil", "ltd": 1000, "price": 39.99, "stock": "low", "units": 7 },
+        { "issue": 1, "variant": "Ed Benes Virgin", "ltd": 1000, "price": 29.99, "stock": "very_low", "units": 2 },
+        { "issue": 1, "variant": "Ed Benes Trade Dress", "ltd": 3000, "price": 19.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Mayhew Virgin Foil", "ltd": 1000, "price": 39.99, "stock": "very_low", "units": 4 },
+        { "issue": 1, "variant": "Kunkka Virgin Pink", "ltd": 1000, "price": 24.99, "stock": "low", "units": 6 },
+        { "issue": 1, "variant": "Cover A - Bengal", "ltd": null, "price": 4.99, "stock": "very_low", "units": 4, "note": "Canonical cover, cheapest signable copy. Two of these cost less than one trade dress." },
+        { "issue": 1, "variant": "Cover B - David Nakayama", "ltd": null, "price": 5.99, "stock": "very_low", "units": 4 },
+        { "issue": 1, "variant": "Cover E - Bengal Foil", "ltd": null, "price": 9.99, "stock": "very_low", "units": 1 },
+        { "issue": 1, "variant": "Mateus Manhanini Ratio Variant 1:25", "ltd": null, "price": 24.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Mayhew Virgin Eyes Foil", "ltd": 1000, "price": 39.99, "stock": "very_low", "units": 4 },
+        { "issue": 1, "variant": "Derrick Chew 2 Cover Set", "ltd": null, "price": 44.99, "list_price": 49.98, "stock": "in_stock", "sale": true },
+        { "issue": 2, "variant": "Cover C Mirka Andolfo", "ltd": null, "price": 5.99, "stock": "very_low", "units": 3, "released": "2026-07-08" },
+        { "issue": 3, "variant": "Cover C Asrar", "ltd": null, "price": 5.99, "stock": "very_low", "units": 4, "released": "2026-08-12", "recommended": true },
+        { "issue": 3, "variant": "Cover D Hill", "ltd": null, "price": 5.99, "stock": "very_low", "units": 2, "released": "2026-08-12" },
+        { "issue": "3-4", "variant": "Cover Set", "ltd": null, "price": 19.99, "stock": "very_low", "units": 2, "sale": true, "released": "2026-08-12" }
+      ]
+    },
+    "absolute_batman": {
+      "total_listings": 255,
+      "issue_13_available": false,
+      "issue_1_available": false,
+      "issue_range_carried": "19-23",
+      "issue_13_note": "NOT available. Comics Elite DID have a #13 exclusive - Ivan Talavera, shared exclusive with The 616 Comics, Trade Dress Ltd 3000 / Virgin Ltd 1000 / Foil Ltd 1000, shipped Oct 2025, graded 9.4-9.8. The Comics Elite product page now 404s (delisted). The shared 616 Comics Trade Dress + Virgin set (Ltd 1000) is SOLD OUT at $50.00 (was $39.99), no add-to-cart. Must be sourced from the secondary market.",
+      "issue_13_dead_urls": [
+        "https://comicselitecomics.com/products/absolute-batman-13-ivan-talavera-trade-dress-ltd-3000",
+        "https://the616comics.com/products/absolute-batman-13-ivan-talavera-616-comics-trade-dress-virgin-variant-set-ltd-1000"
+      ],
+      "items": [
+        { "issue": 19, "variant": "Mayhew Trade Dress", "ltd": 3000, "price": 19.99 },
+        { "issue": 19, "variant": "Mayhew Virgin Foil Green", "ltd": 1000, "price": 39.99 },
+        { "issue": 20, "variant": "Mike Mayhew Trade Dress", "ltd": 3000, "price": 19.99, "key_issue": true },
+        { "issue": 20, "variant": "Ivan Talavera Trade Dress", "ltd": 3000, "price": 19.99, "key_issue": true },
+        { "issue": 20, "variant": "Lucio Parrillo Trade Dress", "ltd": 3000, "price": 19.99, "key_issue": true },
+        { "issue": 20, "variant": "Kendrick Lim Trade Dress", "ltd": 3000, "price": 19.99, "key_issue": true },
+        { "issue": 20, "variant": "Dave Wilkins Alpha Trade Dress", "ltd": 3000, "price": 19.99, "key_issue": true },
+        { "issue": 20, "variant": "Ivan Talavera Trade & Virgin Set", "ltd": 1000, "key_issue": true },
+        { "issue": 20, "variant": "Skan Foil (signed)", "ltd": null, "price": 59.99 },
+        { "issue": 21, "variant": "Wilkins Alpha Trade Dress", "ltd": 3000, "price": 19.99 },
+        { "issue": 21, "variant": "Wilkins Alpha + Cover A 2-Cover Set", "ltd": null },
+        { "issue": 21, "variant": "Mayhew Trade Dress", "ltd": 3000, "price": 19.99 },
+        { "issue": 21, "variant": "Chris Ng Trade Dress", "ltd": 3000, "price": 19.99 },
+        { "issue": 22, "variant": "Mayhew Trade Dress", "ltd": 3000, "price": 19.99, "key_issue": true, "released": "2026-07-07" },
+        { "issue": 23, "variant": "Quah Alpha / Dell'Otto / 5-cover set", "ltd": null, "price_range": "14.99-29.99", "released": "2026-08-12", "warning": "Releases 2 days before the show - buy on the floor, do not rely on shipping" }
+      ]
+    },
+    "absolute_wonder_woman": {
+      "total_listings": 232,
+      "recommendation": "SKIP for signing - no credited creator attending",
+      "items": [
+        { "issue": 15, "variant": "Kirkham Trade Dress", "ltd": 3000, "price": 19.99, "stock": "in_stock" },
+        { "issue": 16, "variant": "Talavera Trade Dress", "ltd": 3000, "price": 19.99, "stock": "in_stock" },
+        { "issue": 18, "variant": "Kyuyong Eom Blue Virgin Spot Foil", "ltd": 1000, "price": 39.99, "stock": "very_low", "units": 4 },
+        { "issue": 18, "variant": "Kyuyong Eom Orange Virgin Spot Foil", "ltd": 1000, "price": 39.99, "stock": "very_low", "units": 2 },
+        { "issue": 18, "variant": "Kyuyong Eom Virgin", "ltd": 1000, "price": 29.99, "stock": "very_low", "units": 4 },
+        { "issue": 19, "variant": "Talavera Trade", "ltd": 3000, "price": 19.99, "stock": "low", "units": 9 },
+        { "issue": 19, "variant": "Carla Cohen Trade Dress", "ltd": 3000, "price": 19.99, "stock": "in_stock" },
+        { "issue": 19, "variant": "Carla Cohen Virgin Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 19, "variant": "Talavera Virgin Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 19, "variant": "Talavera Virgin", "ltd": 1000, "price": 29.99, "stock": "low", "units": 6 },
+        { "issue": 19, "variant": "Talavera Virgin Red Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 20, "variant": "Taurin Clarke Trade Dress", "ltd": 3000, "price": 19.99, "stock": "in_stock" },
+        { "issue": 20, "variant": "Taurin Clarke Spot Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 20, "variant": "Taurin Clarke Virgin", "ltd": 1000, "price": 29.99, "stock": "in_stock" },
+        { "issue": 20, "variant": "4 Cover Set", "ltd": null, "price": 18.99, "stock": "very_low", "units": 2, "sale": true },
+        { "issue": 22, "variant": "Cover C Rahzzah", "ltd": null, "price": 5.99, "stock": "very_low", "units": 5 }
+      ]
+    },
+    "absolute_green_arrow": {
+      "total_listings": 84,
+      "recommendation": "SKIP for signing - no credited creator attending. Best raw value on the site if buying to read.",
+      "items": [
+        { "issue": 1, "variant": "Dave Wilkins Alpha Trade Dress", "ltd": 3000, "price": 9.99, "stock": "in_stock", "note": "Best value-per-dollar on the whole site: Ltd 3000 at under $10" },
+        { "issue": 1, "variant": "Dave Wilkins Alpha Spot Foil", "ltd": 1000, "price": 29.99, "stock": "very_low", "units": 5 },
+        { "issue": 1, "variant": "Dave Wilkins Alpha Virgin Foil", "ltd": 1000, "price": 24.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Francesco Tomaselli Trade Dress", "ltd": 3000, "price": 19.99, "stock": "low", "units": 10 },
+        { "issue": 1, "variant": "Francesco Tomaselli GITD", "ltd": 1000, "price": 34.99, "stock": "very_low", "units": 1 },
+        { "issue": 1, "variant": "Francesco Tomaselli Spot Foil", "ltd": 1000, "price": 39.99, "stock": "low", "units": 8 },
+        { "issue": 1, "variant": "Ivan Talavera Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Ivan Talavera Trade Dress", "ltd": 3000, "price": 19.99, "stock": "in_stock" },
+        { "issue": 1, "variant": "Reiko Murakami 1:25 Ratio", "ltd": null, "price": 24.99, "stock": "in_stock" },
+        { "issue": 2, "variant": "Tyler Kirkham Trade Dress", "ltd": 3000, "price": 19.99, "stock": "in_stock" },
+        { "issue": 2, "variant": "Tyler Kirkham Virgin", "ltd": 1000, "price": 29.99, "stock": "in_stock" },
+        { "issue": 2, "variant": "Tyler Kirkham Foil", "ltd": 1000, "price": 39.99, "stock": "in_stock" },
+        { "issue": 2, "variant": "Parel Cover B", "ltd": null, "price": 5.99, "stock": "very_low", "units": 1 },
+        { "issue": 2, "variant": "Rossmo Cover C", "ltd": null, "price": 5.99, "stock": "very_low", "units": 1 },
+        { "issue": 2, "variant": "Matias 1:25 Ratio", "ltd": null, "price": 17.99, "stock": "very_low", "units": 3 },
+        { "issue": 3, "variant": "EOM Cover D", "ltd": null, "price": 5.99, "stock": "very_low", "units": 5, "key_issue": true }
+      ]
+    }
+  }
+}

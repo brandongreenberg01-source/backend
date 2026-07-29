@@ -1,0 +1,71 @@
+{
+  "captured": "2026-07-29",
+  "event": {
+    "name": "FAN EXPO Chicago 2026",
+    "venue": "Donald E. Stephens Convention Center",
+    "city": "Rosemont, IL",
+    "dates": ["2026-08-14", "2026-08-15", "2026-08-16"],
+    "days_out_at_capture": 16
+  },
+  "autograph_policy": {
+    "signatures_per_ticket": 1,
+    "quote": "Each autograph ticket gets you 1 signature on the item of your choice (some restrictions may apply).",
+    "provider": "Epic Photo Ops",
+    "sales": "first-come, first-served; advance online, remainder on-site at guest table",
+    "pass_required": true,
+    "timed": false,
+    "note": "Ticket guarantees the autograph for the purchased day but is not a timed slot like photo ops.",
+    "store_status": "Epic store behind a Queue-It virtual waiting room as of capture - inventory is moving, prices could not be pulled programmatically"
+  },
+  "comic_guests_confirmed": [
+    { "name": "Scott Snyder", "role": "writer", "absolute_credit": "Absolute Batman (w), Absolute Catwoman (co-w)", "priority": 1 },
+    { "name": "Greg Capullo", "role": "artist", "absolute_credit": null, "note": "Legendary Snyder collaborator (New 52 Batman, Court of Owls, Dark Nights: Metal). Not credited on any Absolute book." },
+    { "name": "Frank Miller", "role": "writer/artist", "absolute_credit": null, "note": "The Dark Knight Returns - tonal ancestor of Absolute Batman. Own experience Sat Aug 15, 6 PM; standard or sketch package." },
+    { "name": "Dan Mora", "role": "artist", "absolute_credit": null },
+    { "name": "Jerome Opena", "role": "artist", "absolute_credit": null },
+    { "name": "Michael Golden", "role": "artist", "absolute_credit": null },
+    { "name": "Jimmy Palmiotti", "role": "writer", "absolute_credit": null },
+    { "name": "Stephen Platt", "role": "artist", "absolute_credit": null },
+    { "name": "Arthur Suydam", "role": "artist", "absolute_credit": null },
+    { "name": "Brett Breeding", "role": "artist", "absolute_credit": null },
+    { "name": "Eric Basaldua", "role": "artist", "absolute_credit": null },
+    { "name": "Joe St. Pierre", "role": "artist", "absolute_credit": null },
+    { "name": "Jhonen Vasquez", "role": "writer/artist", "absolute_credit": null },
+    { "name": "Pablo Villalobos", "role": "artist", "absolute_credit": null },
+    { "name": "Stephanie Williams", "role": "creator", "absolute_credit": null },
+    { "name": "Fabrice Sapolsky", "role": "writer", "absolute_credit": null },
+    { "name": "David Collins", "role": "artist", "absolute_credit": null },
+    { "name": "Renee Witterstaetter", "role": "editor/colorist", "absolute_credit": null }
+  ],
+  "absolute_creators_NOT_attending": [
+    { "name": "Nick Dragotta", "title": "Absolute Batman (a)" },
+    { "name": "Bengal", "title": "Absolute Catwoman (a)" },
+    { "name": "Che Grayson", "title": "Absolute Catwoman (co-w)" },
+    { "name": "Kelly Thompson", "title": "Absolute Wonder Woman (w)" },
+    { "name": "Hayden Sherman", "title": "Absolute Wonder Woman (a)" },
+    { "name": "Pornsak Pichetshote", "title": "Absolute Green Arrow (w)" },
+    { "name": "Rafael Albuquerque", "title": "Absolute Green Arrow (a)" }
+  ],
+  "special_experiences": [
+    {
+      "name": "Greg Capullo and Scott Snyder Comic Experience",
+      "includes": ["premium panel seating", "autographs", "exclusive merch"],
+      "price": "NOT PUBLISHED - confirm with Epic Photo Ops",
+      "signatures_included": "UNCONFIRMED - the single most important number to verify",
+      "availability": "limited tickets",
+      "note": "This is the 'Snyder Fan Experience'. Decision rule: if it covers 3+ signatures it likely beats six single tickets once panel seating and merch are counted; if it covers 1, buy singles instead."
+    },
+    { "name": "Frank Miller Experience", "date": "2026-08-15", "time": "18:00", "options": ["Standard", "Sketch Package"], "includes": ["backstage access", "priority seating", "signed collectibles", "autographs"] },
+    { "name": "An Evening with the Hobbits (25 Years)", "date": "2026-08-14", "time": "20:00" },
+    { "name": "Smallville Nights", "date": "2026-08-15", "time": "19:30" },
+    { "name": "Kurt Russell Live", "date": "2026-08-16" },
+    { "name": "Second Breakfast with the Hobbits", "date": "2026-08-16", "time": "08:00" }
+  ],
+  "cgc_signature_series": {
+    "on_site_confirmed": false,
+    "status": "NOT CONFIRMED for FAN EXPO Chicago 2026",
+    "comparison": "CGC + JSA confirmed on-site grading and autograph authentication at C2E2 (McCormick Place, March 27-29 2026) - a different Chicago show",
+    "why_it_matters": "Signature Series requires a CGC witness present at the moment of signing. It cannot be added afterward. Without on-site CGC, books stay raw-signed and most of the resale premium does not materialize.",
+    "action": "Confirm before finalizing budget"
+  }
+}
