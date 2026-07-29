@@ -44,8 +44,10 @@ All research captured **July 29, 2026**.
 
 ## CGC
 
-- [CGC + JSA on-site at C2E2 2026](https://www.cgccomics.com/news/article/14834/c2e2-2026/) — confirmed for **C2E2** (McCormick Place, Mar 27–29 2026), a *different* Chicago show
 - [CGC Signature Series](https://www.cgccomics.com/signature-series/) — witnessing requirements
+- [CGC Sig Series services & fees](https://www.cgccomics.com/submit/services-fees/cgc-sig-series/) — tier pricing
+- [CGC revised services and fees, 2026](https://www.cgccomics.com/news/article/14659/cgc-price-updates-2026/) — effective Jan 6 2026: **SS Standard $65 → $70**, Express $110 → $125, Walkthrough $325 → $350; Modern non-SS $28
+- [CGC + JSA on-site at C2E2 2026](https://www.cgccomics.com/news/article/14834/c2e2-2026/) — a *different* Chicago show, retained for comparison
 
 ---
 
@@ -53,13 +55,14 @@ All research captured **July 29, 2026**.
 
 | Item | Status | Why it matters |
 |---|---|---|
-| Capullo & Snyder Experience **price** | Not published | Budget shape |
-| Capullo & Snyder Experience **signature count** | **Unknown** | Decides package vs. six single tickets |
-| Snyder per-autograph price | Not published | Modeled at $60–100 from the comic-creator tier |
-| Frank Miller autograph price | Not published | Modeled above creator tier |
-| **CGC on-site at FAN EXPO Chicago** | **Not confirmed** | Without a witness at signing, no Signature Series — most of the resale premium disappears |
-| Item restrictions / per-person caps | Unknown | Whether outside books are allowed at all |
-| Snyder Artist Alley table hours | Unknown | Table signings are sometimes cheaper than pre-sold tickets |
+| Capullo & Snyder Experience **signature count** | ✅ **Confirmed — 3 Capullo + 3 Snyder, witnessed** | Signature access is a sunk cost; book selection is the only lever left |
+| **CGC Signature Series eligibility** | ✅ **Confirmed** — signatures are witnessed | Yellow SS label is achievable; grade now drives value |
+| Capullo & Snyder Experience **price** | Not published | Last unknown in the budget; ~$150–250 at comparable shows |
+| Witness scope | Unknown | Whether all six signatures are covered or only a specific window |
+| Outside books allowed? | Unknown | Whether personal copies can be brought at all |
+| Merch against slots? | Unknown | Whether the exclusive merch consumes signature slots |
+| On-site CGC drop-off | Unknown | Drop off at the show vs. ship home and mail in |
+| Frank Miller autograph price | Not published | Only relevant if adding the separate Miller experience |
 
 Every price in this repo is a **captured snapshot or a modeled range**, not a quote. Limited
 variants at "very low stock" will move before the show.

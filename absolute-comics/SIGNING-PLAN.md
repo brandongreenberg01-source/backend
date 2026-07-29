@@ -1,150 +1,145 @@
-# Signing Plan — 6 Signatures, FAN EXPO Chicago 2026
+# Signing Plan — 6 Witnessed Signatures, FAN EXPO Chicago 2026
 
-**The math you asked for.** Six books, six signature slots, allocated for maximum value.
+**Confirmed:** the Greg Capullo & Scott Snyder Comic Experience includes
+**3 witnessed signatures from Capullo and 3 from Snyder.**
 
----
+That settles the two questions the budget was hanging on:
 
-## The governing constraint
+1. **Signature access is a sunk cost.** All six signatures come with the package. No
+   per-autograph tickets to buy, so book selection is now the *only* lever on value.
+2. **"Witnessed" means CGC Signature Series is live.** A CGC witness present at signing is
+   what makes the yellow SS label possible, and it cannot be added afterward. Every book that
+   goes through this session is SS-eligible.
 
-> *"Each autograph ticket gets you 1 signature on the item of your choice."*
-> — FAN EXPO Chicago autograph policy
-
-**One ticket = one signature.** Not one ticket = one session. Six signatures means six
-tickets, unless the Capullo & Snyder Comic Experience bundles more than one (unconfirmed —
-this is the single most important number to check, see the bottom of this file).
-
----
-
-## Why the original split doesn't work
-
-The plan was three books to Snyder and three to Artist Alley. Artist Alley has no Absolute
-artist in it:
-
-- **Nick Dragotta** (Absolute Batman) — not attending
-- **Bengal** (Absolute Catwoman) — not attending
-- **Hayden Sherman** (Absolute Wonder Woman) — not attending
-- **Rafael Albuquerque** (Absolute Green Arrow) — not attending
-
-The comic guests who *are* confirmed: **Scott Snyder**, **Greg Capullo**, **Frank Miller**,
-Dan Mora, Jerome Opeña, Michael Golden, Jimmy Palmiotti, Stephen Platt, Arthur Suydam,
-Brett Breeding, Eric Basaldua, Fabrice Sapolsky, David Collins.
-
-Of those, exactly one — **Snyder** — is a credited creator on any Absolute book. So the
-second three signatures have to be re-pointed at something worth having, rather than at an
-Absolute artist who isn't there.
+But the split is **3 and 3, not 6 Snyder** — and that constraint drives everything below.
 
 ---
 
-## Tier A — the Snyder three (do this exactly)
+## The constraint that shapes the plan
 
-These match the original instinct and they're correct. Snyder is a **credited creator on
-every one**, which is what makes a signature carry a premium rather than just being ink.
+**Snyder is credited on Absolute books. Capullo is credited on none of them.**
 
-| # | Book | Why it's on the list | Snyder's credit |
+| Signer | Credited on | Slots |
+|---|---|---|
+| **Scott Snyder** | Absolute Batman (writer), Absolute Catwoman (co-writer) | 3 |
+| **Greg Capullo** | *No Absolute title.* New 52 Batman, Dark Nights: Metal, Spawn | 3 |
+
+A signature carries a premium when the signer is a **credited creator on that book**. Snyder's
+three should therefore go on Absolute books, and Capullo's three on books he actually drew.
+Putting Capullo on an Absolute comic spends a slot on a non-creator signature — and on a clean
+Snyder key, some collectors read it as noise rather than value.
+
+**A dual signature consumes one slot from each.** So:
+
+| Duals | Total books | Composition |
+|---|---|---|
+| 0 | 6 | 3 Snyder singles + 3 Capullo singles |
+| **1** | **5** | **1 dual + 2 Snyder + 2 Capullo** ← recommended |
+| 2 | 4 | 2 duals + 1 Snyder + 1 Capullo |
+| 3 | 3 | 3 duals |
+
+More duals means fewer books but higher value per book.
+
+---
+
+## Recommended allocation — 5 books, 1 dual
+
+| # | Book | Signature | Why |
 |---|---|---|---|
-| **1** | **Absolute Batman #13** | **1st appearance of Absolute Catwoman.** The key issue of the entire target list. | Writer |
-| **2** | **Absolute Catwoman #1** (Jun 10, 2026) | The spinoff #13 launched. A #1 of a live series. | **Co-writer** (with Che Grayson) |
-| **3** | **Absolute Batman #1** (Oct 2024) | Cornerstone of the whole Absolute line. | Writer |
+| **1** | **Absolute Batman #13** | **Snyder** | ⭐ **1st appearance of Absolute Catwoman**, signed by the writer who created her. The anchor of the whole trip. |
+| **2** | **Absolute Catwoman #1** | **Snyder** | The spinoff #13 launched. He's **co-writer**, so this is a credited sig. |
+| **3** | **Batman (New 52) #1** | **Snyder + Capullo** | ⭐ **The showcase dual.** Court of Owls, the flagship of the most celebrated modern Batman run, both credited creators on one book. |
+| **4** | **Dark Nights: Metal #1** | **Capullo** | Credited artist, event #1, strong standalone. |
+| **5** | **Batman (New 52) #5** | **Capullo** | "The Ceiling" — the most famous single issue of their run. |
 
-Together these three tell one story — first appearance, the #1 it spun into, and the book
-that started the imprint — all signed by the one man credited on all three. That coherence
-is itself worth money; a matched signed run beats three unrelated signed books.
+**Snyder: 3 used** (#13, AC #1, Batman #1). **Capullo: 3 used** (Batman #1, Metal #1, Batman #5).
 
----
+Two marquee slabs come out of this — a creator-signed first appearance, and a dual-signed
+run flagship — with three solid supporting books.
 
-## Tier B — the other three
+### Alternative — keep all three Snyder slots on Absolute
 
-No Absolute artist to send them to, so here are the three real options, best first.
+If the Absolute line is the point and the dual isn't worth dropping a book for:
 
-### ▸ Option 1 — Double down on the key *(recommended)*
+| Book | Signature |
+|---|---|
+| Absolute Batman #13 | Snyder ⭐ |
+| Absolute Catwoman #1 | Snyder |
+| **Absolute Batman #1** | Snyder |
+| Batman (New 52) #1 | Capullo |
+| Dark Nights: Metal #1 | Capullo |
+| Batman (New 52) #5 | Capullo |
 
-Buy **two more copies of Absolute Batman #13** and have Snyder sign both.
-
-- Cover A in NM runs roughly **$10–20** right now — the market has not repriced it against
-  the Absolute Catwoman series that launched in June
-- Three signed copies total: **one to slab, one to keep raw, one to sell** into the next
-  Absolute Catwoman news cycle
-- **Sixth slot:** Snyder on **Absolute Catwoman #2 or #3** (#3 releases Aug 12, two days
-  before the show)
-
-**Why this wins:** signature value concentrates in credited-creator sigs on key issues. This
-option puts every one of the six slots on exactly that, at the lowest book cost of the three
-options.
-
-### ▸ Option 2 — Snyder + Capullo dual signatures
-
-Capullo is at the show and is bundled with Snyder in the Experience package. He draws **no
-Absolute book** — so his signature on an Absolute comic is a Batman-legend sig, not a
-creator sig, and some collectors consider it noise on an otherwise clean Snyder key.
-
-Where his signature **does** pay: the run he and Snyder actually made together.
-
-- *Batman* (New 52) **#1** — Court of Owls
-- *Batman* **#5** — "The Ceiling" issue
-- *Dark Nights: Metal* **#1**
-
-A **dual Snyder + Capullo** on their own book is a genuinely premium item. Note this costs
-**two slots per book** (one signature each), so three books here would consume all six.
-Budget it as **two books, four slots**, leaving two for Tier A overflow.
-
-### ▸ Option 3 — Frank Miller lineage book
-
-Miller is confirmed, with his own Saturday experience (Aug 15, 6 PM, standard or sketch
-package). *The Dark Knight Returns* is the acknowledged tonal ancestor of Absolute Batman,
-so **Miller on Absolute Batman #1** is a real "lineage" book.
-
-Caveats: Miller autographs price well above the comic-creator tier, his availability is
-tightly limited, and he is not credited on the book — same non-creator caveat as Capullo.
-Treat as a splurge, not a value play.
+Six books, every signature a credited-creator signature, no duals. Cleaner thematically;
+trades the marquee dual-signed slab for one more Absolute book.
 
 ---
 
-## Do not spend slots on these
+## Still do not buy these to sign
 
-**Absolute Wonder Woman** and **Absolute Green Arrow** — nobody at this show can sign either
-as a credited creator. Kelly Thompson, Hayden Sherman, Pornsak Pichetshote, and Rafael
-Albuquerque are all absent.
+**Absolute Wonder Woman** and **Absolute Green Arrow.** Neither Snyder nor Capullo is credited
+on either. Kelly Thompson, Hayden Sherman, Pornsak Pichetshote, and Rafael Albuquerque are all
+absent. Nothing has changed here — the six included slots don't make a non-creator signature
+on these books worth the grading fee.
 
-Buying them at the show to read is fine. Buying them **to sign** is money set on fire. Skip
-until a con with the actual creative teams.
+---
+
+## Grade is now the whole game
+
+With CGC Signature Series in play, **the grade of the raw book determines the value of the
+slab.** A 9.8 SS is worth a multiple of a 9.4 SS on the same book with the same signature.
+
+- **Buy the highest grade you can.** For the secondary-market #13 and Batman #1, buy only from
+  sellers who guarantee **NM 9.6+**. A "VF/NM" listing is a 9.0–9.2 and wastes the signature.
+- Comics Elite states its exclusives ship **9.4–9.8**, which is why their new-release stock is
+  well suited to this.
+- **Do not pre-slab anything.** CGC needs the raw book at the moment of witnessing.
+- Transport in rigid top-loaders inside a portfolio or short box. A single spine tick between
+  buying and signing costs more than the book did.
 
 ---
 
 ## Cost model
 
-Autograph pricing is not published and Epic Photo Ops sits behind a Queue-It waiting room, so
-these are ranges from the comic-creator tier, not quotes.
+Signature access is included. The real spend is now **books + grading**.
 
-### Signatures
+### CGC Signature Series — $70/book
 
-| Line item | Qty | Unit (est.) | Subtotal |
-|---|---|---|---|
-| Snyder autograph tickets | 6 | $60–100 | **$360–600** |
-| *Alternative:* Capullo & Snyder Comic Experience | 1 | $150–250 | **$150–250** + extra tickets |
+Standard tier rose to **$70 per book** effective January 6, 2026 (up from $65). Express is
+$125, Walkthrough $350. Modern non-SS grading is $28 — but a witnessed book graded non-SS
+throws away the entire point.
 
-> **The decision point.** If the Experience covers **3+ signatures**, it likely beats buying
-> six singles once panel seating and exclusive merch are counted. If it covers **1**, buy
-> singles and skip it. Confirm this before anything else.
+**Six books slabbed = $420.** That is more than every comic on this list combined, which
+leads to the most important budget decision:
 
-### Books — Option 1 (recommended)
+### Don't slab all of them
 
-| Book | Source | Price |
+Slab only where the signed 9.8 clears the ~$85–90 all-in cost (book + $70).
+
+| Book | Slab? | Reasoning |
 |---|---|---|
-| Absolute Batman #13 × 3 (Cover A, NM) | Secondary — eBay / MyComicShop / Third Eye | $30–60 |
-| Absolute Batman #1 (1st print) | Secondary | $20–50 |
-| Absolute Catwoman #1 — Mayhew Trade Dress, Ltd 3000 | Comics Elite | $19.99 |
-| Absolute Catwoman #3 — Cover C Asrar (rel. 8/12) | Comics Elite | $5.99 |
-| **Books subtotal** | | **$76–136** |
+| **Absolute Batman #13** (Snyder) | ✅ **Yes** | Creator-signed 1st appearance with a live ongoing spinoff. ~$15 book + $70 = $85 all-in; a 9.8 SS should clear that comfortably. |
+| **Batman (New 52) #1** (dual) | ✅ **Yes** | Dual-signed run flagship. The single strongest slab available here. |
+| **Absolute Batman #1** (Snyder) | ✅ Yes *(if using the alternative)* | Line cornerstone, strong demand. |
+| **Absolute Catwoman #1** (Snyder) | ⚠️ **Borderline** | Worth it on a Ltd 3000 trade dress; **not** on a $4.99 Cover A. Variant-saturated market. |
+| **Dark Nights: Metal #1** (Capullo) | ⚠️ Borderline | Huge print run. Slab only in 9.8. |
+| **Batman (New 52) #5** (Capullo) | ❌ **Keep raw** | Great book, common. Enjoy it signed. |
+
+**Slabbing 2–3 of the six is the right call: $140–210 rather than $420.**
 
 ### All in
 
-| Scenario | Total |
+| Line | Cost |
 |---|---|
-| Six single tickets + Option 1 books | **$436–736** |
-| Experience (if it covers 3 sigs) + 3 singles + Option 1 books | **$406–686** |
+| Capullo & Snyder Experience | **confirm price** (~$150–250 at comparable shows) |
+| Comics Elite order (Catwoman #1 + #3, Batman #22) | **$45.97** |
+| Absolute Batman #13, NM 9.6+ | $15–25 |
+| Batman (New 52) #1 / #5, Metal #1 | $0 if already owned; $40–100 if not |
+| CGC SS on 2–3 books | **$140–210** |
+| **Total, excluding the Experience ticket** | **$241–381** |
 
-Books are the cheap part. **Roughly 80% of this trip's cost is signature access** — which is
-why pointing all six slots at credited-creator keys matters more than which variant gets bought.
+Check the collection before buying anything in row four — the Capullo books are the kind most
+Batman collectors already own, and three of the six slots may cost nothing.
 
 ---
 
@@ -152,24 +147,22 @@ why pointing all six slots at credited-creator keys matters more than which vari
 
 | When | Do |
 |---|---|
-| **Now → Aug 2** | Buy autograph tickets / Experience. Queue-It on the store means inventory is moving. Order Comics Elite books (see `PURCHASE-PLAN.md`). |
-| **Now → Aug 5** | Source Absolute Batman #13 × 3 and #1 from secondary. Longest lead time — don't leave it. |
-| **By Aug 12** | All books in hand. Bag-and-board; bring rigid top-loaders for transport. |
-| **Fri Aug 14** | Confirm Snyder's table location and session times on arrival. If CGC is on-site, find the booth **first** — witnessing must happen at signing, it cannot be added afterward. |
-| **Sat Aug 15** | Capullo & Snyder Experience (time TBC). Frank Miller experience 6 PM if going. |
-| **Sun Aug 16** | Buffer day — re-attempt anything missed. Lightest crowds. |
+| **Now** | Buy the Experience ticket if not already held — limited, and the Epic store is running a Queue-It waiting room. |
+| **Now** | Source **Absolute Batman #13 in NM 9.6+**. Longest lead time, and grade matters more than price. |
+| **Now** | Pull the Capullo books from the collection and check grades before buying replacements. |
+| **By Aug 2** | Comics Elite order placed. |
+| **By Aug 12** | All five books in hand, bagged, boarded, in top-loaders. |
+| **Fri Aug 14** | Locate the CGC booth on arrival and confirm the SS submission process **before** the session. |
+| **At the session** | Confirm the witness is present before Snyder or Capullo signs. No witness, no yellow label. |
+| **Sun Aug 16** | Submit to CGC on-site if they take drop-offs; otherwise ship home in the top-loaders and submit by mail. |
 
 ---
 
-## Confirm before spending
+## Last things to confirm
 
-1. **How many signatures does the Capullo & Snyder Comic Experience include?** Decides the
-   whole budget shape.
-2. **Is CGC on-site for Signature Series witnessing?** Confirmed for C2E2 in March 2026 —
-   **not confirmed for this show**. Without a witness present at signing, books cannot be
-   slabbed as Signature Series later, which is where most of the resale premium lives. If
-   there's no CGC, plan for raw signed copies and adjust expectations.
-3. **Snyder's per-autograph price and item restrictions** — whether outside books are
-   allowed, and any per-person cap.
-4. **Snyder's Artist Alley table hours** vs. the Experience — table signings are sometimes
-   cheaper than pre-sold tickets, sometimes free with a sketch purchase.
+1. **Experience price** — the only remaining unknown in the budget.
+2. **Whether the CGC witness covers all six signatures** or only the ones signed in a specific
+   window. "Witnessed" is confirmed; the scope is not.
+3. **Whether outside books are allowed**, and whether the exclusive merch in the package
+   counts against the six slots.
+4. **On-site CGC drop-off** vs. mailing in after the show.

@@ -88,17 +88,33 @@ else on the buy list comes from Comics Elite as preferred.
 
 ---
 
-## Verify before spending
+## The Experience, confirmed
 
-Three numbers drive the budget and none could be pulled programmatically — Epic Photo Ops
-sits behind a Queue-It waiting room, which is itself a sign that inventory is moving:
+The **Greg Capullo & Scott Snyder Comic Experience** — the "Snyder Fan Experience" — includes
+**3 witnessed signatures from Capullo and 3 from Snyder**, plus premium panel seating and
+exclusive merch.
 
-1. **Per-autograph price for Snyder** (comic-creator autographs typically run $60–100)
-2. **Price and inclusions of the Greg Capullo & Scott Snyder Comic Experience** — the
-   "Snyder Fan Experience." Confirmed to exist for this show and to include autographs,
-   premium panel seating, and exclusive merch; the *number* of signatures it covers is the
-   figure that decides whether it beats buying tickets individually
-3. **Whether CGC is on-site** for Signature Series witnessing — **not confirmed for this
-   show**, and this materially changes the resale math
+Two consequences that reshape the budget:
 
-Costs in this repo are modeled as ranges and flagged accordingly.
+- **Signature access is a sunk cost.** No per-autograph tickets to buy. Book selection is now
+  the only lever on value.
+- **"Witnessed" means CGC Signature Series is live.** A witness present at signing is what
+  makes the yellow SS label possible, and it can't be added later.
+
+But the split is **3 and 3, not 6 Snyder**, and Capullo is credited on **no** Absolute title.
+A dual signature consumes one slot from each. That constraint drives the allocation in
+[`SIGNING-PLAN.md`](SIGNING-PLAN.md).
+
+**The new dominant cost is grading, not comics.** CGC Signature Series Standard rose to
+**$70/book** on January 6, 2026 — slabbing all six would cost **$420**, more than every comic
+on this list combined. The recommendation is to slab **2–3 books ($140–210)** and keep the rest
+raw. And because a 9.8 SS is worth a multiple of a 9.4 SS, **buy raw copies at NM 9.6+ only.**
+
+### Still to confirm
+
+1. **Experience ticket price** — the last unknown in the budget (~$150–250 at comparable shows)
+2. **Whether the witness covers all six signatures** or only a specific window
+3. **Whether outside books are allowed**, and whether the exclusive merch counts against the slots
+4. **On-site CGC drop-off** vs. mailing in after the show
+
+Remaining costs in this repo are modeled as ranges and flagged accordingly.

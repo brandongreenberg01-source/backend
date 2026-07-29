@@ -50,10 +50,19 @@
     {
       "name": "Greg Capullo and Scott Snyder Comic Experience",
       "includes": ["premium panel seating", "autographs", "exclusive merch"],
-      "price": "NOT PUBLISHED - confirm with Epic Photo Ops",
-      "signatures_included": "UNCONFIRMED - the single most important number to verify",
+      "price": "NOT PUBLISHED - confirm with Epic Photo Ops. ~$150-250 at comparable shows.",
+      "signatures_included": 6,
+      "signatures_breakdown": { "Greg Capullo": 3, "Scott Snyder": 3 },
+      "witnessed": true,
       "availability": "limited tickets",
-      "note": "This is the 'Snyder Fan Experience'. Decision rule: if it covers 3+ signatures it likely beats six single tickets once panel seating and merch are counted; if it covers 1, buy singles instead."
+      "note": "This is the 'Snyder Fan Experience'. CONFIRMED: 3 witnessed signatures from Capullo and 3 from Snyder. Signature access is therefore a sunk cost - book selection is the only remaining lever on value. 'Witnessed' makes every book CGC Signature Series eligible.",
+      "constraint": "The split is 3 and 3, NOT 6 Snyder. Snyder is credited on Absolute Batman and Absolute Catwoman; Capullo is credited on NO Absolute title. A dual signature consumes one slot from each signer.",
+      "open_questions": [
+        "Ticket price",
+        "Whether the witness covers all six signatures or only a specific window",
+        "Whether outside books are allowed",
+        "Whether the exclusive merch counts against the six slots"
+      ]
     },
     { "name": "Frank Miller Experience", "date": "2026-08-15", "time": "18:00", "options": ["Standard", "Sketch Package"], "includes": ["backstage access", "priority seating", "signed collectibles", "autographs"] },
     { "name": "An Evening with the Hobbits (25 Years)", "date": "2026-08-14", "time": "20:00" },
@@ -62,10 +71,22 @@
     { "name": "Second Breakfast with the Hobbits", "date": "2026-08-16", "time": "08:00" }
   ],
   "cgc_signature_series": {
-    "on_site_confirmed": false,
-    "status": "NOT CONFIRMED for FAN EXPO Chicago 2026",
-    "comparison": "CGC + JSA confirmed on-site grading and autograph authentication at C2E2 (McCormick Place, March 27-29 2026) - a different Chicago show",
-    "why_it_matters": "Signature Series requires a CGC witness present at the moment of signing. It cannot be added afterward. Without on-site CGC, books stay raw-signed and most of the resale premium does not materialize.",
-    "action": "Confirm before finalizing budget"
+    "on_site_confirmed": true,
+    "status": "CONFIRMED - the Capullo & Snyder Experience signatures are witnessed, so every book signed in that session is Signature Series eligible",
+    "why_it_matters": "A CGC witness must be present at the moment of signing. It cannot be added afterward.",
+    "fees_2026": {
+      "effective": "2026-01-06",
+      "sig_series_standard": 70,
+      "sig_series_standard_previous": 65,
+      "sig_series_express": 125,
+      "sig_series_walkthrough": 350,
+      "modern_non_ss": 28,
+      "note": "At $70/book, slabbing all six costs $420 - more than every comic on the list combined. Slab only where a signed 9.8 clears the ~$85-90 all-in cost. Recommendation: slab 2-3 books ($140-210), keep the rest raw."
+    },
+    "grade_matters": "A 9.8 SS is worth a multiple of a 9.4 SS with the same signature. Buy raw copies at NM 9.6+ only. Do not pre-slab anything intended for signing.",
+    "remaining_questions": [
+      "Does the witness cover all six signatures or only a specific window?",
+      "Does CGC take on-site drop-off submissions at this show, or is it mail-in after?"
+    ]
   }
 }
