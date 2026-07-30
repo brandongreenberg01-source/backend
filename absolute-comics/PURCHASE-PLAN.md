@@ -39,19 +39,25 @@ one Comics Elite cannot sell you** — plan around it rather than waiting.
 
 ## Order 1 — Comics Elite (place by Aug 2)
 
-### Core buy
+### Core buy — $49.98
 
-| Book | Variant | Ltd | Price | Stock |
-|---|---|---|---|---|
-| **Absolute Catwoman #1** | Mayhew Trade Dress | 3000 | **$19.99** | Low (9) |
-| **Absolute Catwoman #3** | Cover C Asrar (rel. 8/12) | — | **$5.99** | Very low (4) |
-| **Absolute Batman #22** | Mayhew Trade Dress *(key issue)* | 3000 | **$19.99** | In stock |
-| | | | **$45.97** | |
+**See [Buy 2 Get 1 Free — cart optimization](#buy-2-get-1-free--cart-optimization) below for
+the derivation.** Short version:
+
+| Book | Variant | Ltd | Price |
+|---|---|---|---|
+| **Absolute Catwoman #1** | Derrick Chew Trade Dress ← signing copy | 1000 | $24.99 |
+| **Absolute Catwoman #1** | Derrick Chew Virgin ← backup | 1000 | $24.99 |
+| **Absolute Batman #20** | Skan Trade Dress *(key issue)* | 3000 | ~~$19.99~~ **FREE** |
+| | | | **$49.98** |
 
 **Absolute Catwoman #1** is the one that matters: Snyder is co-writer, so his signature on it
-is a credited-creator signature, and it's the payoff to the #13 first appearance. The Mayhew
-trade dress at Ltd 3000 is the sweet spot — real scarcity without paying virgin/foil prices a
-signature won't recoup.
+is a credited-creator signature, and it's the payoff to the #13 first appearance.
+
+**Do NOT add Absolute Catwoman #3 or Absolute Batman #23 to this order.** Both release 8/12 and
+are pre-orders; Comics Elite's published shipping policy doesn't say whether mixed orders ship
+complete, and a held order means the signing copy lands after the show. Order them separately
+or buy them on the convention floor.
 
 ### Absolute Catwoman #1 — full variant options
 
@@ -82,6 +88,105 @@ Pick by budget; all are signable by Snyder.
 Cover A is the canonical, most-recognized cover — and at a fifth the price, buying two and
 signing both costs less than one trade dress.
 
+---
+
+## Buy 2 Get 1 Free — cart optimization
+
+No working coupon code exists. Aggregator sites (WorthEPenny, HotDeals, DealDrop) list
+`SAVE30`, `ELITE5`, `10off`, `DOM1PPAAAUU` — treat all as noise. Those sites auto-generate
+listings that never expire, and **Comics Elite's own promotions page lists no codes at all.**
+
+The real discount is first-party and needs no code: **Buy 2 Get 1 Free** on the
+[CE-616 Exclusive Variants collection](https://comicselitecomics.com/collections/ce-616-exclusive-variants-buy-2-get-1-free).
+
+### The mechanic
+
+> *"At checkout the cheapest (or same priced) item will be priced at $0.00!!"*
+> *"You MUST add the comic(s) you want for free to your order before checkout."*
+> *"A bundle of comics … is considered 1 item and not 2 items."*
+
+Three consequences that decide the cart:
+
+1. **Not automatic.** The third book has to be added manually.
+2. **The cheapest of the three goes free** — so a cheap filler item *destroys* the discount.
+   Adding a $4.99 book means you save $4.99, not $24.99.
+3. **Multi-cover sets count as one item.** The Derrick Chew 2-Cover Set at $44.99 is a single
+   line item and won't get you to three.
+
+### The math
+
+For three items priced `p1 ≤ p2 ≤ p3`, you pay `p2 + p3`. Savings = `p1`.
+
+Holding two $24.99 books and varying the third:
+
+| Third item | You pay | Effect |
+|---|---|---|
+| $19.99 | $49.98 | Third book free — **but only $19.99 of value** |
+| **$24.99** | **$49.98** | **Third book free — $24.99 of value. Optimal.** |
+| $29.99 | $54.98 | $5 extra buys a $29.99 book |
+| $39.99 | $64.98 | $15 extra buys a $39.99 book |
+
+**A $24.99 third item costs the same cash as a $19.99 one and gives a better book.** Never pad
+the cart with cheap filler.
+
+### Absolute Catwoman #1 in the B2G1 collection
+
+Every one of these qualifies:
+
+| Variant | Ltd | Price | Stock |
+|---|---|---|---|
+| Mayhew Trade Dress | 3000 | $19.99 | Low (9) |
+| Ed Benes Trade Dress | 3000 | $19.99 | In stock |
+| **Derrick Chew Trade Dress** | **1000** | **$24.99** | In stock |
+| **Derrick Chew Virgin** | **1000** | **$24.99** | In stock |
+| Talavera Virgin | 1000 | $29.99 | Very low (2) |
+| Ed Benes Virgin | 1000 | $29.99 | Very low (2) |
+| Mayhew Virgin Foil / Virgin Eyes Foil | 1000 | $39.99 | Very low (4 each) |
+| Ed Benes Foil | 1000 | $39.99 | Low (7) |
+| Talavera Helmet / No-Helmet Foil | 1000 | $39.99 | In stock |
+
+Also in the collection and relevant: **Absolute Batman #20 Skan Trade Dress, KEY ISSUE, Ltd
+3000, $19.99** (in stock) and the Skan Virgin Ltd 1000 at $29.99.
+
+### Recommended cart — $49.98
+
+| Item | Ltd | Price |
+|---|---|---|
+| Absolute Catwoman #1 — **Derrick Chew Trade Dress** ← signing copy | 1000 | $24.99 |
+| Absolute Catwoman #1 — **Derrick Chew Virgin** ← backup / slab candidate | 1000 | $24.99 |
+| Absolute Batman #20 — **Skan Trade Dress, KEY ISSUE** | 3000 | ~~$19.99~~ **FREE** |
+| **Total** | | **$49.98** |
+
+Three books for fifty dollars. The signing copy is now a **Ltd 1000** rather than the Ltd 3000
+Mayhew — meaningfully scarcer for $5 more — with a genuine Ltd 1000 backup instead of a $4.99
+newsstand cover, plus a free Absolute Batman key issue.
+
+Buy the Chew Trade Dress and Virgin as **separate line items**, not the $44.99 2-Cover Set,
+which counts as one.
+
+### The cheap dual-signature find
+
+**Dark Nights: Death Metal #6 — Kyle Hotz, Ltd 3000 — $4.99**, in stock, in this collection.
+
+Death Metal is **written by Scott Snyder with art by Greg Capullo** — both signers are credited
+creators. At $4.99 it's by far the cheapest legitimate dual-signature candidate available, and
+it needs no back-issue hunting.
+
+It is *not* a substitute for Batman (New 52) #1 as the marquee dual — Death Metal #6 is a
+common book and a mid-run issue, so the signed copy won't carry the same premium. Treat it as
+a cheap insurance option for the dual slot, or a fourth book to have signed if a slot frees up.
+
+**Do not add it to the B2G1 group of three** — at $4.99 it would become the free item and cost
+you $20 of discount. Buy it separately or as a paid fourth line.
+
+### Unresolved
+
+**Does the promo stack?** The terms say *"the cheapest … item will be priced at $0.00"* —
+singular. Whether six qualifying items yield two free books or just one is not stated. Worth a
+quick email before building a larger order around it.
+
+---
+
 ### Skip at Comics Elite for this trip
 
 **Absolute Wonder Woman** (232 listings, currently #22) and **Absolute Green Arrow** (84
@@ -111,16 +216,24 @@ retailer relationship backing it up.
 
 ## Totals
 
+Signature access is included in the Capullo & Snyder Experience (3 witnessed sigs each), so
+it no longer appears as a per-autograph line. See [`SIGNING-PLAN.md`](SIGNING-PLAN.md).
+
 | | |
 |---|---|
-| Comics Elite order | **$45.97** |
-| Secondary — #13 × 3 + #1 | **$50–110** |
-| **Books all in** | **$96–156** |
-| Signatures (6 × $60–100 est.) | **$360–600** |
-| **Trip total** | **$456–756** |
+| Comics Elite order (B2G1 cart, 3 books) | **$49.98** |
+| Absolute Batman #13, NM 9.6+ — secondary | **$15–25** |
+| Batman (New 52) #1 / #5, Dark Nights: Metal #1 | **$0 if owned; $40–100 if not** |
+| **Books all in** | **$65–175** |
+| CGC Signature Series on 2–3 books @ $70 | **$140–210** |
+| **Total, excluding the Experience ticket** | **$205–385** |
+| Capullo & Snyder Experience ticket | **confirm price** (~$150–250 at comparable shows) |
 
-Books are the cheap part. **Roughly 80% of the cost is signature access**, which is why the
-allocation in [`SIGNING-PLAN.md`](SIGNING-PLAN.md) matters more than variant selection.
+**Grading is now the dominant cost, not comics.** At $70/book, slabbing all six would run $420
+— more than every comic here combined. Slab 2–3 and keep the rest raw.
+
+Check the longbox before buying row three — the Capullo books are exactly what a Batman
+collector already owns, and those slots may cost nothing.
 
 ---
 
