@@ -272,6 +272,82 @@ Two caveats: **#23 releases two days before the show**, so buy it on the floor r
 shipping it; and a Miller signature needs its own ticket and would likely be **unwitnessed**,
 since the CGC witness is tied to the Capullo & Snyder Experience.
 
+---
+
+## Collected editions — omnibus, hardcover, trade
+
+### The constraint that decides it
+
+**CGC's standard comic grading tops out at 10½" × 7⅝" × ¼" thick.** An omnibus is two to three
+inches thick — an order of magnitude over. CGC has expanded into digests and paperbacks, but
+omnibus-scale books do not slab.
+
+So the fork is clean:
+
+| Goal | Format |
+|---|---|
+| **Slabbable asset** (CGC SS, resale) | Single issues only |
+| **Signed display piece** (personal collection) | **Omnibus wins outright** |
+
+A signature on an omnibus can't be graded, encapsulated, or sold on the slab market. That
+doesn't make it a bad idea — it makes it a *different* idea.
+
+### Why it isn't actually a conflict
+
+The grading analysis already concluded that only **2–3 of the six** signatures are worth
+slabbing at $70/book. The other three or four slots were staying raw regardless.
+
+**Those are exactly where a collected edition belongs.** The omnibus doesn't compete with the
+slab plan; it fills the slots the slab plan was never going to use.
+
+### The book that solves the Capullo problem
+
+**Batman by Scott Snyder & Greg Capullo Omnibus Vol. 1** — collects *Batman* #0–33, #23.2, and
+Annuals #1–2: Court of Owls, Death of the Family, and Zero Year. Street price has been running
+around **$60–70** (list is higher).
+
+This is the best dual-signature object available at the show:
+
+- **One book. Both signers credited.** Not a cover-artist credit — the actual creative team.
+- It is *the* definitive collection of the run they are famous for
+- Costs **2 slots** (1 Snyder + 1 Capullo) instead of the 4+ that chasing Batman (New 52) #1,
+  #5, and Dark Nights: Metal #1 as separate issues would consume
+
+Recall the earlier finding: **Capullo has three slots and exactly one credited book in the whole
+Comics Elite catalog.** The omnibus fixes that in a single purchase.
+
+**Vol. 2** collects *Batman* #34–52, *Detective Comics* #27 and #1000, Annuals #3–4, and *Last
+Knight on Earth* #1–3 — a second dual if wanted, at another 2 slots.
+
+### Absolute collected editions
+
+| Edition | Collects | Released |
+|---|---|---|
+| **Absolute Batman Vol. 1: The Zoo** | #1–6 | August 2025 |
+| **Absolute Batman Vol. 2: Abomination** | **#7–14** | February 2026 |
+
+**Vol. 2 contains issue #13** — the first appearance of Absolute Catwoman. A Snyder-signed Vol. 2
+is a nice thematic object, but understand what it is: **collected editions do not carry
+first-appearance premiums.** The single issue is the collectible; the hardcover is the reading
+copy. Don't let a signed Vol. 2 substitute for a signed #13.
+
+### Sourcing
+
+**Comics Elite does not carry these.** They're a singles-and-variants shop — a search for
+"omnibus" returns essentially nothing relevant (one Muppet Babies omnibus). Collected editions
+come from Amazon, Target, Penguin Random House, or a local shop.
+
+### Practical warnings
+
+- **Weight.** Omnibus Vol. 1 runs 1,000+ pages at roughly 7–8 lbs. Two of them is 15 lbs hauled
+  across a convention floor in August. **Bring one, not two**, and bring a rolling bag or a real
+  backpack — not a tote.
+- **Sign the title page, not the dust jacket.** Jackets get torn, swapped, and separated from
+  the book; a signature on a jacket is a signature on a detachable object. Remove the jacket
+  while signing so the pen doesn't emboss through it.
+- **Corners are the whole ballgame.** Omnibus corners bump easily and there's no top-loader for
+  a 3-inch book. Transport it flat, in the middle of a bag, with nothing on top.
+
 ### Unresolved
 
 **Does the promo stack?** The terms say *"the cheapest … item will be priced at $0.00"* —
