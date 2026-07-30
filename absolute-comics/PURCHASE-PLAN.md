@@ -179,6 +179,54 @@ a cheap insurance option for the dual slot, or a fourth book to have signed if a
 **Do not add it to the B2G1 group of three** — at $4.99 it would become the free item and cost
 you $20 of discount. Buy it separately or as a paid fourth line.
 
+### Cross-reference: the whole sale vs. the whole guest list
+
+Swept the CE-616 collection (pages 1–5 plus both price sorts, covering most of the 12 pages by
+volume) against every confirmed Fan Expo Chicago guest — not just Snyder and Capullo.
+
+**Cover artists in the sale:** Talavera, Mayhew, Kirkham, Derrick Chew, Ed Benes, Shikarii,
+Godtail, Chris NG, Cedric Poulat, Skan, Sorah Suhng, Bjorn Barends, Carla Cohen, Taurin Clarke,
+Jamie Tyndall, Mirka Andolfo, Matt Dalton, Eric Canete, Dawn McTeigue, Riccardo Federici,
+Kendrick Lim (Kunkka), Ryan Brown, Alan Quah, Mattina, Kyle Hotz, Adam Hughes.
+
+**Not one of them is attending.** This is structural, not an oversight: the sale is
+*current-release retailer-exclusive variants*, while the attending guests are *legacy creators*
+whose signature work is 20–40-year-old back issues that Comics Elite doesn't stock at all.
+
+What survives the cross-reference — books in the sale where an attending guest is a **credited
+creator**:
+
+| Book in sale | Attending credited creator | Notes |
+|---|---|---|
+| Absolute Catwoman #1 (all variants) | **Snyder** (co-writer) | The signing copy |
+| Absolute Batman #20, #21, #22 (all variants) | **Snyder** (writer) | #20 is a key issue |
+| **Dark Nights: Death Metal #6** — Kyle Hotz, $4.99 | **Snyder** (w) + **Capullo** (a) | **The only dual-eligible book in the entire sale** |
+
+Everything else with an Absolute label fails: **Absolute Wonder Woman** #19/#20 (Kelly
+Thompson), **Absolute Green Arrow** #1/#2 (Pichetshote), and **Absolute Superman** #19 (Jason
+Aaron) — none of those writers or artists are attending.
+
+**The consequence for Capullo:** he has three signature slots and exactly **one** credited book
+in the entire Comics Elite catalog. His other two slots must be filled from outside the store —
+Batman (New 52), Spawn, Dark Nights: Metal — all back issues.
+
+### Other attending guests — checked, and why they don't change the order
+
+| Guest | Signature work | At Comics Elite? |
+|---|---|---|
+| **Frank Miller** | DKR, Year One, Daredevil, Sin City, 300, Ronin | ❌ All back issues |
+| **Dan Mora** | World's Finest, Superman, DC K.O. | ⚠️ Yes — but $3.99–6.99 Cover A regulars, **none in the B2G1 sale** |
+| **Jimmy Palmiotti** | Harley Quinn | ⚠️ Harley Quinn x Elvira #1 variants exist (Chad Hardin, Amanda Conner), **none in the sale**, and Palmiotti's credit on that title is unconfirmed |
+| Jerome Opeña, Michael Golden, Stephen Platt, Arthur Suydam, Brett Breeding, Jhonen Vasquez | Legacy runs | ❌ Back issues only |
+
+**None of this changes the cart** — and there's a hard reason beyond availability: the six
+witnessed signatures are **Snyder and Capullo only**. Any other guest requires a separate
+autograph ticket at roughly $60–100, and the CGC witness is tied to the Experience session, so
+those signatures would likely be **unwitnessed and therefore not Signature Series eligible**.
+
+Frank Miller is the one worth a second look — he has his own experience (Sat Aug 15, 6 PM) that
+includes signed collectibles, so it comes with its own supply.
+
 ### Unresolved
 
 **Does the promo stack?** The terms say *"the cheapest … item will be priced at $0.00"* —
