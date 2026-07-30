@@ -227,6 +227,51 @@ those signatures would likely be **unwitnessed and therefore not Signature Serie
 Frank Miller is the one worth a second look — he has his own experience (Sat Aug 15, 6 PM) that
 includes signed collectibles, so it comes with its own supply.
 
+### Homage covers — the Witchblade tribute, and the better version of it
+
+**Witchblade #19 — Tiago da Silva — "Absolute Batman #1 Homage"** — Ltd 500, guaranteed 9.4–9.8,
+in Trade Dress ($24.99), Virgin ($24.99), and Gloss Foil Virgin ($29.99), plus 2- and 3-cover sets.
+
+Three reasons it doesn't make this order:
+
+1. **Backordered and badly overdue.** The product page reads *"will ship as soon as it is back
+   in stock"* with an estimated ship date of **March 25, 2026** — four months past. Same trap as
+   the Kunkka, but worse. *(Note: the site's search index shows the Trade Dress as "In stock"
+   while the Virgin product page says backordered — check each variant individually at checkout,
+   the index appears stale.)*
+2. **Not in the B2G1 collection.** No promo benefit, and it would hold the shipment.
+3. **Snyder is not credited on it.** A homage cover is the *cover artist* riffing on someone
+   else's design — da Silva referencing Dragotta. Snyder wrote Absolute Batman #1 but has zero
+   involvement in a Top Cow book. A Snyder signature here is a non-creator signature, and the
+   CGC label would read oddly. Da Silva isn't attending either, so the actual cover artist is
+   unavailable.
+
+Homage covers signed by the creator of the homaged work are a real niche, and it's a fun
+object — but not worth one of only three Snyder slots.
+
+#### The better version: Absolute Batman #23, Dell'Otto DKR homage
+
+**Absolute Batman #23 — Gabriele Dell'Otto variant — a *Dark Knight Returns* homage** —
+releases **August 12, 2026**. It recreates Batman on horseback from Miller's 1986 graphic
+novel, lightning bolt and all.
+
+This is the same idea executed correctly:
+
+| | Witchblade #19 | **Absolute Batman #23 Dell'Otto** |
+|---|---|---|
+| Homages | Absolute Batman #1 | *The Dark Knight Returns* |
+| Snyder credited? | ❌ No | ✅ **Yes — he writes #23** |
+| Homaged creator at the show? | ❌ Dragotta absent | ✅ **Frank Miller is attending** |
+| Availability | Backordered 4 months | Releases 8/12, carried by Comics Elite ($14.99–29.99) |
+
+A Snyder signature on it is a **credited-creator signature on a homage cover** — both angles at
+once. And with a separate Miller autograph ticket, a Snyder + Miller dual on a DKR homage of
+Snyder's own book is a genuinely distinctive item.
+
+Two caveats: **#23 releases two days before the show**, so buy it on the floor rather than
+shipping it; and a Miller signature needs its own ticket and would likely be **unwitnessed**,
+since the CGC witness is tied to the Capullo & Snyder Experience.
+
 ### Unresolved
 
 **Does the promo stack?** The terms say *"the cheapest … item will be priced at $0.00"* —
