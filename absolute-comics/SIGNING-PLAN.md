@@ -5,7 +5,11 @@
 
 That settles the two questions the budget was hanging on:
 
-1. **Signature access is a sunk cost.** All six signatures come with the package. No
+1. **Six signatures come bundled — but the ticket is a real, unpriced cost.** The
+   Experience must be purchased (~$150–250 at comparable shows; Chicago price still
+   unpublished behind Epic's queue), which works out to **$25–42 per witnessed
+   signature**. It is "sunk" only after buying; until then it is the largest single
+   line in the budget. No
    per-autograph tickets to buy, so book selection is now the *only* lever on value.
 2. **"Witnessed" means CGC Signature Series is live.** A CGC witness present at signing is
    what makes the yellow SS label possible, and it cannot be added afterward. Every book that
@@ -149,7 +153,9 @@ slab.** A 9.8 SS is worth a multiple of a 9.4 SS on the same book with the same 
 
 ## Cost model
 
-Signature access is included. The real spend is now **books + grading**.
+No per-autograph tickets exist in this plan, but the Experience ticket itself is a real
+cost: at the modeled **$150–250**, each of the six witnessed signatures runs **$25–42**.
+The spend is **ticket + books + grading**.
 
 ### CGC Signature Series — $70/book
 

@@ -96,7 +96,8 @@ exclusive merch.
 
 Two consequences that reshape the budget:
 
-- **Signature access is a sunk cost.** No per-autograph tickets to buy. Book selection is now
+- **No per-autograph tickets — but the Experience ticket is a real, still-unpriced cost**
+  (~$150–250 modeled ≈ $25–42 per witnessed signature). Book selection is now
   the only lever on value.
 - **"Witnessed" means CGC Signature Series is live.** A witness present at signing is what
   makes the yellow SS label possible, and it can't be added later.
