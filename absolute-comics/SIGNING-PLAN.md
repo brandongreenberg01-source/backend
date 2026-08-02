@@ -92,11 +92,16 @@ Third Eye Certificate of Authenticity.
 | FCBD 2026 Absolute Batman HC Vol 01 variant dust jacket | Dragotta | $49.99 |
 | Absolute Batman ARK-M Special #1 (2nd ptg) CVR B | Snyder | $29.99 |
 
-**The play: HC Vol 02.** Dragotta drew Absolute Catwoman's first appearance; buy the
-hardcover pre-signed by him, bring it to Fan Expo, and put one Snyder Experience slot on it.
-Result: **the full creative team on the volume containing the first appearance — $49.99 total
-signature cost.** (It can't be slabbed — hardcover — but as established, the raw display slots
-were free anyway.)
+**Decision: singles over collected editions.** The HC Vol 02 play was considered and
+rejected — preference is singles, which also keep the grading door open.
+
+**The pick: Absolute Batman #25 CVR A — Nick Dragotta GATEFOLD TRIPTYCH — dual-signed
+Snyder + Dragotta — $59.99 pre-order.** Issue #25 is the milestone issue (releases
+10/28/2026), the gatefold triptych is Dragotta's showcase cover for it, and both credited
+creators sign with COA. As a single it can also chase a premium label (see below). A
+companion exists in the same wave: **#25 CVR I — Dragotta "middle connecting" card stock
+variant, also dual-signed** — part of a connecting-cover set, for anyone building the full
+triptych spread.
 
 ### Pre-order wave — signed early November, ships mid-November
 
@@ -108,12 +113,15 @@ Dual **Snyder + Dragotta**, $59.99 each, COA included: Absolute Batman reprints 
 - No #13 and no #1 in the wave; every signed #1 variant from the previous batch is **sold out**
 - These arrive **after** the con — they're a parallel track, not con inventory
 
-### Caveat
+### Grading note (corrected)
 
-Third Eye's COA is a store certificate, **not CGC Signature Series** — mail-order signatures
-can never be SS (no CGC witness at signing). Grading one of these gets a green/qualified or
-unverified label at best. Treat the Third Eye channel as the *display/collection* channel and
-the witnessed Experience slots as the *slab* channel.
+Third Eye's COA is a store certificate, not CGC Signature Series — no CGC witness is at the
+signing. But the earlier "green/qualified label at best" framing was outdated: **CGC's JSA
+partnership now authenticates unwitnessed signatures**, so a signed single submitted through
+the CGC × JSA path can receive a yellow Signature Series label with JSA authentication noted.
+It costs more than standard SS and authentication isn't guaranteed, but the premium-label
+door is open for these — one more reason the signed *singles* beat the signed hardcover,
+which no slab path exists for at any label color.
 
 ## Still do not buy these to sign
 
