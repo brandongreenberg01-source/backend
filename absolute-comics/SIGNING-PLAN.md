@@ -231,6 +231,24 @@ is the natural exit window).
 **Whole-trip ledger** (~$700–815 all-in): the autographs do not pay for the trip. The trip
 buys a weekend, a panel, and a partially self-funding collection. That is the honest product.
 
+## Full-bibliography leaderboard (any Snyder or Capullo book)
+
+**Dual (costs 1 slot from each):** Dark Nights: Metal #2 (1st cameo Batman Who Laughs, by
+the character's creators — raw $10–20, dual SS 9.8 est. $200–350) > Metal #1 ($150–250) >
+We Have Demons #1 Dark Horse print (their true creator-owned, thin census, spec $150–300)
+> Last Knight on Earth #1 ($150–250) > New 52 Batman #1 (saturated, ~$100–150).
+*Note: Exquisite Corpses is Tynion/Walsh — verified NOT a Snyder/Capullo book.*
+
+**Snyder solo:** Absolute Batman #1 1st print ($200–280, verified asks) > American
+Vampire #1 (co-written with Stephen King; raw $20–40, SS $100–200) > Absolute Batman #13
+($120–200, near-empty census) > Detective Comics #871 ($100–175) > Batman Who Laughs #1.
+
+**Capullo solo:** early Spawn issues he drew (Spawn market resurgent, SS $100–250) >
+Angela #1 (1994, Gaiman) > 90s X-Force (modest).
+
+**Optimal pure-value allocation:** Metal #2 as the dual (1+1), Snyder on AB#1 + #13,
+Capullo on a Spawn key + Angela #1. Slab the dual, AB#1, and #13. Book cost ~$135–155.
+
 ## Sequencing
 
 | When | Do |
