@@ -197,6 +197,40 @@ Batman collectors already own, and three of the six slots may cost nothing.
 
 ---
 
+## Market comps & ROI (priced 2026-08-01)
+
+Experience confirmed at **$205 after fees** = $34.17/witnessed signature. Trip costs (2
+people): admission ~$110, gas ~$100, food ~$80 → **~$495 core trip**, plus books (~$100)
+and grading ($140–210).
+
+### What the slabs actually sell for
+
+| Comp | Market evidence |
+|---|---|
+| Absolute Batman #1 CGC 9.8 (blue, unsigned) | **~$380** |
+| Absolute Batman #1 SS 9.8 Snyder+Dragotta w/ sketch | **~$2,500** (Jan 2026 sale; sketch inflates) |
+| Absolute Batman #13 SS 9.8 Snyder (est.) | **$120–200** — no direct comp; raw is $10–20, line is hot, first appearance |
+| **Batman (2011) #1 SS 9.8 dual Snyder+Capullo** | **~$99–110 current listings; census shows 814 copies in SS 9.8** |
+| Absolute SS presales (#20, #22 multi-signed 9.8) | Active retailer/eBay market at premium prices |
+
+### The uncomfortable finding
+
+**The New 52 Batman #1 dual is saturated.** 814 SS 9.8 copies exist and Snyder-signed 9.8s
+list around $100 — a decade of con signings did its work. The dual-signature showcase book
+is a *personal* piece, not an investment; expect it to roughly cover its own grading fee,
+no more. Market value concentrates almost entirely in the **Absolute-line Snyder slots**.
+
+### The two ledgers
+
+**Autograph P&L only** ($205 ticket + ~$95 books + $140–210 grading ≈ **$440–510 in**):
+if the 9.8s hit, realizable net after eBay fees ≈ **$470–780**. Break-even to modestly
+positive — dependent on the 9.8 lottery (raw modern books gross 9.8 maybe half the time
+with careful handling) and on selling into Absolute-line heat (the Q4 2026 crossover event
+is the natural exit window).
+
+**Whole-trip ledger** (~$700–815 all-in): the autographs do not pay for the trip. The trip
+buys a weekend, a panel, and a partially self-funding collection. That is the honest product.
+
 ## Sequencing
 
 | When | Do |
