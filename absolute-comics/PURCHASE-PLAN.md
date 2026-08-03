@@ -1,0 +1,434 @@
+# Purchase Plan — Comics Elite First
+
+**Preferred retailer: [comicselitecomics.com](https://comicselitecomics.com)** (Indianapolis, IN).
+Inventory captured **July 29, 2026**. Limited variants move fast; treat stock counts as indicative.
+
+> **Domain note:** `comicselite.com` is a parked domain listed for sale and sells nothing.
+> The real storefront is **`comicselitecomics.com`**.
+
+---
+
+## What Comics Elite can and can't do for this trip
+
+Comics Elite is a **new-release exclusive-variant shop working on pre-order**, not a
+back-issue dealer. Their Absolute Batman inventory starts at **#19**. That single fact splits
+the buy list in two.
+
+| Book | Comics Elite? | Notes |
+|---|---|---|
+| Absolute Catwoman #1 | ✅ **Yes — 16+ variants in stock** | Snyder co-writes. Best selection on the site. |
+| Absolute Catwoman #3 | ✅ Yes (rel. 8/12) | |
+| Absolute Batman #22 | ✅ Yes — key issue | |
+| Absolute Batman #23 | ✅ Yes (rel. 8/12) | Too late to ship in time — buy on the floor |
+| **Absolute Batman #13** | ❌ **No — delisted, sold out** | The key issue. Must come from elsewhere. |
+| **Absolute Batman #1** | ❌ **No — not carried** | Back issue. Must come from elsewhere. |
+
+### On #13 specifically
+
+Comics Elite *did* have a #13 exclusive — **Ivan Talavera, shared with The 616 Comics**, Trade
+Dress Ltd 3000 / Virgin Ltd 1000 / Foil Ltd 1000, shipped October 2025. It is gone:
+
+- The Comics Elite product page now **404s** (delisted)
+- The 616 Comics shared version — Trade Dress + Virgin set, Ltd 1000 — is **Sold Out** at
+  **$50.00** (was $39.99), no add-to-cart
+
+That exclusive is a secondary-market item now. **The most important book on the list is the
+one Comics Elite cannot sell you** — plan around it rather than waiting.
+
+---
+
+## Order 1 — Comics Elite (place by Aug 2)
+
+### Core buy — $49.98
+
+**See [Buy 2 Get 1 Free — cart optimization](#buy-2-get-1-free--cart-optimization) below for
+the derivation.** Short version:
+
+| Book | Variant | Ltd | Price |
+|---|---|---|---|
+| **Absolute Catwoman #1** | Derrick Chew Trade Dress ← signing copy | 1000 | $24.99 |
+| **Absolute Catwoman #1** | Derrick Chew Virgin ← backup | 1000 | $24.99 |
+| **Absolute Batman #20** | Skan Trade Dress *(key issue)* | 3000 | ~~$19.99~~ **FREE** |
+| | | | **$49.98** |
+
+**Absolute Catwoman #1** is the one that matters: Snyder is co-writer, so his signature on it
+is a credited-creator signature, and it's the payoff to the #13 first appearance.
+
+**Do NOT add Absolute Catwoman #3 or Absolute Batman #23 to this order.** Both release 8/12 and
+are pre-orders; Comics Elite's published shipping policy doesn't say whether mixed orders ship
+complete, and a held order means the signing copy lands after the show. Order them separately
+or buy them on the convention floor.
+
+### Absolute Catwoman #1 — full variant options
+
+Pick by budget; all are signable by Snyder.
+
+| Variant | Ltd | Price | Stock |
+|---|---|---|---|
+| Cover A — **Bengal** | — | **$4.99** | Very low (4) ← budget pick |
+| Cover B — David Nakayama | — | $5.99 | Very low (4) |
+| Cover E — Bengal **Foil** | — | $9.99 | Very low (1) |
+| **Mayhew Trade Dress** | 3000 | **$19.99** | Low (9) ← **recommended** |
+| Ed Benes Trade Dress | 3000 | $19.99 | In stock |
+| Derrick Chew Trade Dress | 1000 | $24.99 | In stock |
+| Derrick Chew Virgin | 1000 | $24.99 | In stock |
+| Kunkka Virgin Pink | 1000 | $24.99 | Low (6) |
+| Mateus Manhanini 1:25 Ratio | — | $24.99 | In stock |
+| Talavera Virgin | 1000 | $29.99 | Very low (2) |
+| Ed Benes Virgin | 1000 | $29.99 | Very low (2) |
+| Ed Benes Foil | 1000 | $39.99 | Low (7) |
+| Talavera Helmet Foil | 1000 | $39.99 | In stock |
+| Talavera No-Helmet Foil | 1000 | $39.99 | In stock |
+| Mayhew Virgin Foil | 1000 | $39.99 | Very low (4) |
+| Mayhew Virgin **Eyes** Foil | 1000 | $39.99 | Very low (4) |
+| Derrick Chew 2-Cover Set | — | $44.99 (10% off) | In stock |
+| Talavera 2-Cover Foil Set | — | $69.99 (sale) | In stock |
+
+**Cover A at $4.99 is worth a thought.** For a book that isn't a first appearance, Bengal's
+Cover A is the canonical, most-recognized cover — and at a fifth the price, buying two and
+signing both costs less than one trade dress.
+
+---
+
+## Buy 2 Get 1 Free — cart optimization
+
+No working coupon code exists. Aggregator sites (WorthEPenny, HotDeals, DealDrop) list
+`SAVE30`, `ELITE5`, `10off`, `DOM1PPAAAUU` — treat all as noise. Those sites auto-generate
+listings that never expire, and **Comics Elite's own promotions page lists no codes at all.**
+
+The real discount is first-party and needs no code: **Buy 2 Get 1 Free** on the
+[CE-616 Exclusive Variants collection](https://comicselitecomics.com/collections/ce-616-exclusive-variants-buy-2-get-1-free).
+
+### The mechanic
+
+> *"At checkout the cheapest (or same priced) item will be priced at $0.00!!"*
+> *"You MUST add the comic(s) you want for free to your order before checkout."*
+> *"A bundle of comics … is considered 1 item and not 2 items."*
+
+Three consequences that decide the cart:
+
+1. **Not automatic.** The third book has to be added manually.
+2. **The cheapest of the three goes free** — so a cheap filler item *destroys* the discount.
+   Adding a $4.99 book means you save $4.99, not $24.99.
+3. **Multi-cover sets count as one item.** The Derrick Chew 2-Cover Set at $44.99 is a single
+   line item and won't get you to three.
+
+### The math
+
+For three items priced `p1 ≤ p2 ≤ p3`, you pay `p2 + p3`. Savings = `p1`.
+
+Holding two $24.99 books and varying the third:
+
+| Third item | You pay | Effect |
+|---|---|---|
+| $19.99 | $49.98 | Third book free — **but only $19.99 of value** |
+| **$24.99** | **$49.98** | **Third book free — $24.99 of value. Optimal.** |
+| $29.99 | $54.98 | $5 extra buys a $29.99 book |
+| $39.99 | $64.98 | $15 extra buys a $39.99 book |
+
+**A $24.99 third item costs the same cash as a $19.99 one and gives a better book.** Never pad
+the cart with cheap filler.
+
+### Absolute Catwoman #1 in the B2G1 collection
+
+Every one of these qualifies:
+
+| Variant | Ltd | Price | Stock |
+|---|---|---|---|
+| Mayhew Trade Dress | 3000 | $19.99 | Low (9) |
+| Ed Benes Trade Dress | 3000 | $19.99 | In stock |
+| **Derrick Chew Trade Dress** | **1000** | **$24.99** | In stock |
+| **Derrick Chew Virgin** | **1000** | **$24.99** | In stock |
+| Talavera Virgin | 1000 | $29.99 | Very low (2) |
+| Ed Benes Virgin | 1000 | $29.99 | Very low (2) |
+| Mayhew Virgin Foil / Virgin Eyes Foil | 1000 | $39.99 | Very low (4 each) |
+| Ed Benes Foil | 1000 | $39.99 | Low (7) |
+| Talavera Helmet / No-Helmet Foil | 1000 | $39.99 | In stock |
+
+Also in the collection and relevant: **Absolute Batman #20 Skan Trade Dress, KEY ISSUE, Ltd
+3000, $19.99** (in stock) and the Skan Virgin Ltd 1000 at $29.99.
+
+### Recommended cart — $49.98
+
+| Item | Ltd | Price |
+|---|---|---|
+| Absolute Catwoman #1 — **Derrick Chew Trade Dress** ← signing copy | 1000 | $24.99 |
+| Absolute Catwoman #1 — **Derrick Chew Virgin** ← backup / slab candidate | 1000 | $24.99 |
+| Absolute Batman #20 — **Skan Trade Dress, KEY ISSUE** | 3000 | ~~$19.99~~ **FREE** |
+| **Total** | | **$49.98** |
+
+Three books for fifty dollars. The signing copy is now a **Ltd 1000** rather than the Ltd 3000
+Mayhew — meaningfully scarcer for $5 more — with a genuine Ltd 1000 backup instead of a $4.99
+newsstand cover, plus a free Absolute Batman key issue.
+
+Buy the Chew Trade Dress and Virgin as **separate line items**, not the $44.99 2-Cover Set,
+which counts as one.
+
+### The cheap dual-signature find
+
+**Dark Nights: Death Metal #6 — Kyle Hotz, Ltd 3000 — $4.99**, in stock, in this collection.
+
+Death Metal is **written by Scott Snyder with art by Greg Capullo** — both signers are credited
+creators. At $4.99 it's by far the cheapest legitimate dual-signature candidate available, and
+it needs no back-issue hunting.
+
+It is *not* a substitute for Batman (New 52) #1 as the marquee dual — Death Metal #6 is a
+common book and a mid-run issue, so the signed copy won't carry the same premium. Treat it as
+a cheap insurance option for the dual slot, or a fourth book to have signed if a slot frees up.
+
+**Do not add it to the B2G1 group of three** — at $4.99 it would become the free item and cost
+you $20 of discount. Buy it separately or as a paid fourth line.
+
+### Cross-reference: the whole sale vs. the whole guest list
+
+Swept the CE-616 collection (pages 1–5 plus both price sorts, covering most of the 12 pages by
+volume) against every confirmed Fan Expo Chicago guest — not just Snyder and Capullo.
+
+**Cover artists in the sale:** Talavera, Mayhew, Kirkham, Derrick Chew, Ed Benes, Shikarii,
+Godtail, Chris NG, Cedric Poulat, Skan, Sorah Suhng, Bjorn Barends, Carla Cohen, Taurin Clarke,
+Jamie Tyndall, Mirka Andolfo, Matt Dalton, Eric Canete, Dawn McTeigue, Riccardo Federici,
+Kendrick Lim (Kunkka), Ryan Brown, Alan Quah, Mattina, Kyle Hotz, Adam Hughes.
+
+**Not one of them is attending.** This is structural, not an oversight: the sale is
+*current-release retailer-exclusive variants*, while the attending guests are *legacy creators*
+whose signature work is 20–40-year-old back issues that Comics Elite doesn't stock at all.
+
+What survives the cross-reference — books in the sale where an attending guest is a **credited
+creator**:
+
+| Book in sale | Attending credited creator | Notes |
+|---|---|---|
+| Absolute Catwoman #1 (all variants) | **Snyder** (co-writer) | The signing copy |
+| Absolute Batman #20, #21, #22 (all variants) | **Snyder** (writer) | #20 is a key issue |
+| **Dark Nights: Death Metal #6** — Kyle Hotz, $4.99 | **Snyder** (w) + **Capullo** (a) | **The only dual-eligible book in the entire sale** |
+
+Everything else with an Absolute label fails: **Absolute Wonder Woman** #19/#20 (Kelly
+Thompson), **Absolute Green Arrow** #1/#2 (Pichetshote), and **Absolute Superman** #19 (Jason
+Aaron) — none of those writers or artists are attending.
+
+**The consequence for Capullo:** he has three signature slots and exactly **one** credited book
+in the entire Comics Elite catalog. His other two slots must be filled from outside the store —
+Batman (New 52), Spawn, Dark Nights: Metal — all back issues.
+
+### Other attending guests — checked, and why they don't change the order
+
+| Guest | Signature work | At Comics Elite? |
+|---|---|---|
+| **Frank Miller** | DKR, Year One, Daredevil, Sin City, 300, Ronin | ❌ All back issues |
+| **Dan Mora** | World's Finest, Superman, DC K.O. | ⚠️ Yes — but $3.99–6.99 Cover A regulars, **none in the B2G1 sale** |
+| **Jimmy Palmiotti** | Harley Quinn | ⚠️ Harley Quinn x Elvira #1 variants exist (Chad Hardin, Amanda Conner), **none in the sale**, and Palmiotti's credit on that title is unconfirmed |
+| Jerome Opeña, Michael Golden, Stephen Platt, Arthur Suydam, Brett Breeding, Jhonen Vasquez | Legacy runs | ❌ Back issues only |
+
+**None of this changes the cart** — and there's a hard reason beyond availability: the six
+witnessed signatures are **Snyder and Capullo only**. Any other guest requires a separate
+autograph ticket at roughly $60–100, and the CGC witness is tied to the Experience session, so
+those signatures would likely be **unwitnessed and therefore not Signature Series eligible**.
+
+Frank Miller is the one worth a second look — he has his own experience (Sat Aug 15, 6 PM) that
+includes signed collectibles, so it comes with its own supply.
+
+### Homage covers — the Witchblade tribute, and the better version of it
+
+**Witchblade #19 — Tiago da Silva — "Absolute Batman #1 Homage"** — Ltd 500, guaranteed 9.4–9.8,
+in Trade Dress ($24.99), Virgin ($24.99), and Gloss Foil Virgin ($29.99), plus 2- and 3-cover sets.
+
+Three reasons it doesn't make this order:
+
+1. **Backordered and badly overdue.** The product page reads *"will ship as soon as it is back
+   in stock"* with an estimated ship date of **March 25, 2026** — four months past. Same trap as
+   the Kunkka, but worse. *(Note: the site's search index shows the Trade Dress as "In stock"
+   while the Virgin product page says backordered — check each variant individually at checkout,
+   the index appears stale.)*
+2. **Not in the B2G1 collection.** No promo benefit, and it would hold the shipment.
+3. **Snyder is not credited on it.** A homage cover is the *cover artist* riffing on someone
+   else's design — da Silva referencing Dragotta. Snyder wrote Absolute Batman #1 but has zero
+   involvement in a Top Cow book. A Snyder signature here is a non-creator signature, and the
+   CGC label would read oddly. Da Silva isn't attending either, so the actual cover artist is
+   unavailable.
+
+Homage covers signed by the creator of the homaged work are a real niche, and it's a fun
+object — but not worth one of only three Snyder slots.
+
+#### The better version: Absolute Batman #23, Dell'Otto DKR homage
+
+**Absolute Batman #23 — Gabriele Dell'Otto variant — a *Dark Knight Returns* homage** —
+releases **August 12, 2026**. It recreates Batman on horseback from Miller's 1986 graphic
+novel, lightning bolt and all.
+
+This is the same idea executed correctly:
+
+| | Witchblade #19 | **Absolute Batman #23 Dell'Otto** |
+|---|---|---|
+| Homages | Absolute Batman #1 | *The Dark Knight Returns* |
+| Snyder credited? | ❌ No | ✅ **Yes — he writes #23** |
+| Homaged creator at the show? | ❌ Dragotta absent | ✅ **Frank Miller is attending** |
+| Availability | Backordered 4 months | Releases 8/12, carried by Comics Elite ($14.99–29.99) |
+
+A Snyder signature on it is a **credited-creator signature on a homage cover** — both angles at
+once. And with a separate Miller autograph ticket, a Snyder + Miller dual on a DKR homage of
+Snyder's own book is a genuinely distinctive item.
+
+Two caveats: **#23 releases two days before the show**, so buy it on the floor rather than
+shipping it; and a Miller signature needs its own ticket and would likely be **unwitnessed**,
+since the CGC witness is tied to the Capullo & Snyder Experience.
+
+---
+
+## Collected editions — omnibus, hardcover, trade
+
+### The constraint that decides it
+
+**CGC's standard comic grading tops out at 10½" × 7⅝" × ¼" thick.** An omnibus is two to three
+inches thick — an order of magnitude over. CGC has expanded into digests and paperbacks, but
+omnibus-scale books do not slab.
+
+So the fork is clean:
+
+| Goal | Format |
+|---|---|
+| **Slabbable asset** (CGC SS, resale) | Single issues only |
+| **Signed display piece** (personal collection) | **Omnibus wins outright** |
+
+A signature on an omnibus can't be graded, encapsulated, or sold on the slab market. That
+doesn't make it a bad idea — it makes it a *different* idea.
+
+### Why it isn't actually a conflict
+
+The grading analysis already concluded that only **2–3 of the six** signatures are worth
+slabbing at $70/book. The other three or four slots were staying raw regardless.
+
+**Those are exactly where a collected edition belongs.** The omnibus doesn't compete with the
+slab plan; it fills the slots the slab plan was never going to use.
+
+### The book that solves the Capullo problem
+
+**Batman by Scott Snyder & Greg Capullo Omnibus Vol. 1** — collects *Batman* #0–33, #23.2, and
+Annuals #1–2: Court of Owls, Death of the Family, and Zero Year. Street price has been running
+around **$60–70** (list is higher).
+
+This is the best dual-signature object available at the show:
+
+- **One book. Both signers credited.** Not a cover-artist credit — the actual creative team.
+- It is *the* definitive collection of the run they are famous for
+- Costs **2 slots** (1 Snyder + 1 Capullo) instead of the 4+ that chasing Batman (New 52) #1,
+  #5, and Dark Nights: Metal #1 as separate issues would consume
+
+Recall the earlier finding: **Capullo has three slots and exactly one credited book in the whole
+Comics Elite catalog.** The omnibus fixes that in a single purchase.
+
+**Vol. 2** collects *Batman* #34–52, *Detective Comics* #27 and #1000, Annuals #3–4, and *Last
+Knight on Earth* #1–3 — a second dual if wanted, at another 2 slots.
+
+### Absolute collected editions
+
+| Edition | Collects | Released |
+|---|---|---|
+| **Absolute Batman Vol. 1: The Zoo** | #1–6 | August 2025 |
+| **Absolute Batman Vol. 2: Abomination** | **#7–14** | February 2026 |
+
+**Vol. 2 contains issue #13** — the first appearance of Absolute Catwoman. A Snyder-signed Vol. 2
+is a nice thematic object, but understand what it is: **collected editions do not carry
+first-appearance premiums.** The single issue is the collectible; the hardcover is the reading
+copy. Don't let a signed Vol. 2 substitute for a signed #13.
+
+### Sourcing
+
+**Comics Elite does not carry these.** They're a singles-and-variants shop — a search for
+"omnibus" returns essentially nothing relevant (one Muppet Babies omnibus). Collected editions
+come from Amazon, Target, Penguin Random House, or a local shop.
+
+### Practical warnings
+
+- **Weight.** Omnibus Vol. 1 runs 1,000+ pages at roughly 7–8 lbs. Two of them is 15 lbs hauled
+  across a convention floor in August. **Bring one, not two**, and bring a rolling bag or a real
+  backpack — not a tote.
+- **Sign the title page, not the dust jacket.** Jackets get torn, swapped, and separated from
+  the book; a signature on a jacket is a signature on a detachable object. Remove the jacket
+  while signing so the pen doesn't emboss through it.
+- **Corners are the whole ballgame.** Omnibus corners bump easily and there's no top-loader for
+  a 3-inch book. Transport it flat, in the middle of a bag, with nothing on top.
+
+### Unresolved
+
+**Does the promo stack?** The terms say *"the cheapest … item will be priced at $0.00"* —
+singular. Whether six qualifying items yield two free books or just one is not stated. Worth a
+quick email before building a larger order around it.
+
+---
+
+### Skip at Comics Elite for this trip
+
+**Absolute Wonder Woman** (232 listings, currently #22) and **Absolute Green Arrow** (84
+listings, currently #3) — no credited creator from either book is attending. Buy to read,
+not to sign.
+
+One exception worth grabbing on merit alone: **Absolute Green Arrow #1, Dave Wilkins Alpha
+Trade Dress, Ltd 3000, $9.99** — the best raw value on the entire site.
+
+---
+
+## Order 2 — the two Comics Elite can't supply (start now)
+
+| Book | Qty | Est. price | Where |
+|---|---|---|---|
+| **Absolute Batman #13** Cover A (Dragotta), NM | 2–3 | $10–20 ea | [Third Eye Comics](https://shop.thirdeyecomics.com/collections/absolute-batman-13-1st-appearance-of-absolute-catwoman) (dedicated collection), MyComicShop, eBay |
+| **Absolute Batman #1** 1st print | 1 | $20–50 | MyComicShop, eBay |
+
+Buy **Cover A**, not variants, for the signing copies. Dragotta's Cover A is the recognized
+first appearance; Key Collector ranges #13 variants at just $1–12, so the market agrees the
+exotics add nothing once Snyder's signature is the point.
+
+**This is the long-lead item — order it first.** It's the one book on the list with no
+retailer relationship backing it up.
+
+---
+
+## Totals
+
+Signature access is included in the Capullo & Snyder Experience (3 witnessed sigs each), so
+it no longer appears as a per-autograph line. See [`SIGNING-PLAN.md`](SIGNING-PLAN.md).
+
+| | |
+|---|---|
+| Comics Elite order (B2G1 cart, 3 books) | **$49.98** |
+| Absolute Batman #13, NM 9.6+ — secondary | **$15–25** |
+| Batman (New 52) #1 / #5, Dark Nights: Metal #1 | **$0 if owned; $40–100 if not** |
+| **Books all in** | **$65–175** |
+| CGC Signature Series on 2–3 books @ $70 | **$140–210** |
+| **Total, excluding the Experience ticket** | **$205–385** |
+| Capullo & Snyder Experience ticket | **confirm price** (~$150–250 at comparable shows) |
+
+**Grading is now the dominant cost, not comics.** At $70/book, slabbing all six would run $420
+— more than every comic here combined. Slab 2–3 and keep the rest raw.
+
+Check the longbox before buying row three — the Capullo books are exactly what a Batman
+collector already owns, and those slots may cost nothing.
+
+---
+
+## Deadlines
+
+| By | Action |
+|---|---|
+| **Now** | Order #13 × 3 and #1 from the secondary market. Longest, least predictable lead time. |
+| **Aug 2** | Comics Elite order placed. "Very low stock" limited variants won't last two weeks. |
+| **Aug 12** | Everything in hand, bagged and boarded. |
+| **At the show** | Absolute Batman #23 and Catwoman #3 if they didn't arrive in time. |
+
+**Shipping reality:** Comics Elite ships from Indianapolis, and their model is pre-order —
+some listings state shipping *within 30 business days of release*. Anything releasing **8/12**
+will not reach you by **8/14**. Order the in-stock items now and buy the two new releases on
+the convention floor.
+
+---
+
+## Handling
+
+- **Bag and board everything**, then rigid top-loaders for transport. One creased corner
+  cancels the signature premium.
+- **Do not pre-slab** anything you intend to get signed. If CGC is on-site they need the raw
+  book; if not, slabbing now forecloses Signature Series permanently.
+- **Bring a rigid portfolio or short box.** Six books through a packed floor in a tote bag is
+  how spine ticks happen.
+- **Blue or black Sharpie.** Some creators bring their own, many don't. Paint pens only for
+  dark covers — and CGC records pen color on the label.

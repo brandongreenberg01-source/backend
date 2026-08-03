@@ -1,0 +1,107 @@
+{
+  "captured": "2026-07-29",
+  "imprint": "DC Absolute Universe",
+  "note": "Target properties for FAN EXPO Chicago 2026. signer_at_show is the deciding field: only titles with a credited creator attending are worth buying to sign.",
+  "titles": [
+    {
+      "title": "Absolute Batman",
+      "launched": "2024-10",
+      "format": "ongoing",
+      "current_issue": 22,
+      "current_issue_date": "2026-07-07",
+      "next_issue": 23,
+      "next_issue_date": "2026-08-12",
+      "writer": "Scott Snyder",
+      "artist": "Nick Dragotta",
+      "signer_at_show": ["Scott Snyder"],
+      "absent_creators": ["Nick Dragotta"],
+      "key_issues": [
+        {
+          "issue": 13,
+          "released": "2025-10-08",
+          "significance": "1st appearance of Absolute Catwoman; Batman/Bane finale",
+          "writer": "Scott Snyder",
+          "cover_a_artist": "Nick Dragotta",
+          "cover_price": "4.99",
+          "secondary_est_nm": "10-20",
+          "at_comics_elite": false,
+          "priority": 1,
+          "rationale": "Credited-creator signature on a first appearance, bought before the spinoff series matures. Highest value-per-dollar on the list."
+        },
+        {
+          "issue": 1,
+          "released": "2024-10",
+          "significance": "Series and imprint cornerstone",
+          "secondary_est_nm": "20-50",
+          "at_comics_elite": false,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "title": "Absolute Catwoman",
+      "launched": "2026-06-10",
+      "format": "limited",
+      "issue_count": 6,
+      "current_issue": 2,
+      "next_issue": 3,
+      "next_issue_date": "2026-08-12",
+      "writers": ["Che Grayson", "Scott Snyder"],
+      "artist": "Bengal",
+      "signer_at_show": ["Scott Snyder"],
+      "absent_creators": ["Bengal", "Che Grayson"],
+      "notes": "Snyder is CO-WRITER, so his signature is a credited-creator signature here, not just a name. Spins directly out of Absolute Batman #13/#14. Issue #1 has gone to a second printing.",
+      "key_issues": [
+        {
+          "issue": 1,
+          "released": "2026-06-10",
+          "significance": "First issue of the spinoff launched by Absolute Batman #13",
+          "at_comics_elite": true,
+          "recommended_variant": "Mayhew Trade Dress Ltd 3000 @ $19.99",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "title": "Absolute Wonder Woman",
+      "launched": "2024-10",
+      "format": "ongoing",
+      "current_issue": 22,
+      "writer": "Kelly Thompson",
+      "artist": "Hayden Sherman",
+      "signer_at_show": [],
+      "absent_creators": ["Kelly Thompson", "Hayden Sherman"],
+      "recommendation": "DO NOT BUY TO SIGN",
+      "rationale": "No credited creator attending FAN EXPO Chicago 2026. Signature budget spent here returns nothing."
+    },
+    {
+      "title": "Absolute Green Arrow",
+      "launched": "2026-05-20",
+      "format": "limited",
+      "issue_count": 6,
+      "current_issue": 3,
+      "writer": "Pornsak Pichetshote",
+      "artist": "Rafael Albuquerque",
+      "spins_out_of": "Absolute Evil",
+      "signer_at_show": [],
+      "absent_creators": ["Pornsak Pichetshote", "Rafael Albuquerque"],
+      "recommendation": "DO NOT BUY TO SIGN",
+      "rationale": "No credited creator attending. Best raw value on the Comics Elite site (#1 Wilkins Alpha Trade Dress Ltd 3000 @ $9.99) but that is a reading/spec purchase, not a signing one."
+    }
+  ],
+  "line_context": {
+    "other_titles": [
+      "Absolute Superman",
+      "Absolute Green Lantern",
+      "Absolute Flash",
+      "Absolute Martian Manhunter"
+    ],
+    "announced_2026": [
+      "Absolute Batgirl",
+      "Absolute Legion of Super-Heroes (Sept 2026)",
+      "Absolute Teen Titans (Sept 2026)",
+      "Absolute Doom Patrol (Sept 2026)"
+    ],
+    "first_absolute_crossover_event": "Q4 2026"
+  }
+}

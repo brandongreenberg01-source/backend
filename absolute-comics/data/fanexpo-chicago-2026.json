@@ -1,0 +1,92 @@
+{
+  "captured": "2026-07-29",
+  "event": {
+    "name": "FAN EXPO Chicago 2026",
+    "venue": "Donald E. Stephens Convention Center",
+    "city": "Rosemont, IL",
+    "dates": ["2026-08-14", "2026-08-15", "2026-08-16"],
+    "days_out_at_capture": 16
+  },
+  "autograph_policy": {
+    "signatures_per_ticket": 1,
+    "quote": "Each autograph ticket gets you 1 signature on the item of your choice (some restrictions may apply).",
+    "provider": "Epic Photo Ops",
+    "sales": "first-come, first-served; advance online, remainder on-site at guest table",
+    "pass_required": true,
+    "timed": false,
+    "note": "Ticket guarantees the autograph for the purchased day but is not a timed slot like photo ops.",
+    "store_status": "Epic store behind a Queue-It virtual waiting room as of capture - inventory is moving, prices could not be pulled programmatically"
+  },
+  "comic_guests_confirmed": [
+    { "name": "Scott Snyder", "role": "writer", "absolute_credit": "Absolute Batman (w), Absolute Catwoman (co-w)", "priority": 1 },
+    { "name": "Greg Capullo", "role": "artist", "absolute_credit": null, "note": "Legendary Snyder collaborator (New 52 Batman, Court of Owls, Dark Nights: Metal). Not credited on any Absolute book." },
+    { "name": "Frank Miller", "role": "writer/artist", "absolute_credit": null, "note": "The Dark Knight Returns - tonal ancestor of Absolute Batman. Own experience Sat Aug 15, 6 PM; standard or sketch package." },
+    { "name": "Dan Mora", "role": "artist", "absolute_credit": null },
+    { "name": "Jerome Opena", "role": "artist", "absolute_credit": null },
+    { "name": "Michael Golden", "role": "artist", "absolute_credit": null },
+    { "name": "Jimmy Palmiotti", "role": "writer", "absolute_credit": null },
+    { "name": "Stephen Platt", "role": "artist", "absolute_credit": null },
+    { "name": "Arthur Suydam", "role": "artist", "absolute_credit": null },
+    { "name": "Brett Breeding", "role": "artist", "absolute_credit": null },
+    { "name": "Eric Basaldua", "role": "artist", "absolute_credit": null },
+    { "name": "Joe St. Pierre", "role": "artist", "absolute_credit": null },
+    { "name": "Jhonen Vasquez", "role": "writer/artist", "absolute_credit": null },
+    { "name": "Pablo Villalobos", "role": "artist", "absolute_credit": null },
+    { "name": "Stephanie Williams", "role": "creator", "absolute_credit": null },
+    { "name": "Fabrice Sapolsky", "role": "writer", "absolute_credit": null },
+    { "name": "David Collins", "role": "artist", "absolute_credit": null },
+    { "name": "Renee Witterstaetter", "role": "editor/colorist", "absolute_credit": null }
+  ],
+  "absolute_creators_NOT_attending": [
+    { "name": "Nick Dragotta", "title": "Absolute Batman (a)" },
+    { "name": "Bengal", "title": "Absolute Catwoman (a)" },
+    { "name": "Che Grayson", "title": "Absolute Catwoman (co-w)" },
+    { "name": "Kelly Thompson", "title": "Absolute Wonder Woman (w)" },
+    { "name": "Hayden Sherman", "title": "Absolute Wonder Woman (a)" },
+    { "name": "Pornsak Pichetshote", "title": "Absolute Green Arrow (w)" },
+    { "name": "Rafael Albuquerque", "title": "Absolute Green Arrow (a)" }
+  ],
+  "special_experiences": [
+    {
+      "name": "Greg Capullo and Scott Snyder Comic Experience",
+      "includes": ["premium panel seating", "autographs", "exclusive merch"],
+      "price": "NOT PUBLISHED - confirm with Epic Photo Ops. ~$150-250 at comparable shows.",
+      "signatures_included": 6,
+      "signatures_breakdown": { "Greg Capullo": 3, "Scott Snyder": 3 },
+      "witnessed": true,
+      "availability": "limited tickets",
+      "note": "This is the 'Snyder Fan Experience'. CONFIRMED: 3 witnessed signatures from Capullo and 3 from Snyder. Signature access is therefore a sunk cost - book selection is the only remaining lever on value. 'Witnessed' makes every book CGC Signature Series eligible.",
+      "constraint": "The split is 3 and 3, NOT 6 Snyder. Snyder is credited on Absolute Batman and Absolute Catwoman; Capullo is credited on NO Absolute title. A dual signature consumes one slot from each signer.",
+      "open_questions": [
+        "Ticket price",
+        "Whether the witness covers all six signatures or only a specific window",
+        "Whether outside books are allowed",
+        "Whether the exclusive merch counts against the six slots"
+      ]
+    },
+    { "name": "Frank Miller Experience", "date": "2026-08-15", "time": "18:00", "options": ["Standard", "Sketch Package"], "includes": ["backstage access", "priority seating", "signed collectibles", "autographs"] },
+    { "name": "An Evening with the Hobbits (25 Years)", "date": "2026-08-14", "time": "20:00" },
+    { "name": "Smallville Nights", "date": "2026-08-15", "time": "19:30" },
+    { "name": "Kurt Russell Live", "date": "2026-08-16" },
+    { "name": "Second Breakfast with the Hobbits", "date": "2026-08-16", "time": "08:00" }
+  ],
+  "cgc_signature_series": {
+    "on_site_confirmed": true,
+    "status": "CONFIRMED - the Capullo & Snyder Experience signatures are witnessed, so every book signed in that session is Signature Series eligible",
+    "why_it_matters": "A CGC witness must be present at the moment of signing. It cannot be added afterward.",
+    "fees_2026": {
+      "effective": "2026-01-06",
+      "sig_series_standard": 70,
+      "sig_series_standard_previous": 65,
+      "sig_series_express": 125,
+      "sig_series_walkthrough": 350,
+      "modern_non_ss": 28,
+      "note": "At $70/book, slabbing all six costs $420 - more than every comic on the list combined. Slab only where a signed 9.8 clears the ~$85-90 all-in cost. Recommendation: slab 2-3 books ($140-210), keep the rest raw."
+    },
+    "grade_matters": "A 9.8 SS is worth a multiple of a 9.4 SS with the same signature. Buy raw copies at NM 9.6+ only. Do not pre-slab anything intended for signing.",
+    "remaining_questions": [
+      "Does the witness cover all six signatures or only a specific window?",
+      "Does CGC take on-site drop-off submissions at this show, or is it mail-in after?"
+    ]
+  }
+}
